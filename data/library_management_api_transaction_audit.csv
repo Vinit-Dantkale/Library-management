@@ -1,0 +1,1001 @@
+transaction_id,Timestamp,state,particulars,charges,performed_by
+608719,2022-10-17 10:30:44,LOST,Integer ac leo.,258.31,3434
+317034,2022-04-15 06:39:16,LATE RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",228.76,1022
+350052,2023-02-11 16:25:04,DAMAGED RETURN,Maecenas rhoncus aliquam lacus.,273.72,3255
+559666,2022-11-18 07:25:38,RESERVE,Aenean auctor gravida sem.,185.77,2088
+998266,2022-09-10 22:30:11,ISSUE,Praesent blandit lacinia erat.,434.73,3340
+465683,2022-07-16 04:04:57,ISSUE,Etiam faucibus cursus urna.,203.27,3434
+457262,2022-04-20 01:54:32,RESERVE,Proin risus.,46.75,2760
+117743,2022-03-12 08:30:30,LATE RETURN,Curabitur convallis.,31.27,3434
+980101,2022-04-02 09:55:02,RENEW,Morbi a ipsum.,238.01,4550
+765036,2022-05-20 09:10:56,RESERVE,Maecenas pulvinar lobortis est.,300.24,3340
+745315,2023-01-30 14:01:08,LATE RETURN,Proin eu mi.,231.35,3255
+113885,2023-02-13 03:57:40,DAMAGED RETURN,Vivamus vel nulla eget eros elementum pellentesque.,22.61,3255
+611831,2022-04-01 02:23:18,ISSUE,Duis at velit eu est congue elementum.,116.38,2781
+343466,2022-06-28 01:52:42,RENEW,Ut at dolor quis odio consequat varius.,144.31,2088
+205735,2023-01-12 08:57:18,RESERVE,Suspendisse ornare consequat lectus.,468.53,1199
+417827,2022-07-30 21:11:21,RESERVE,Mauris ullamcorper purus sit amet nulla.,456.94,1199
+9058,2022-08-31 18:15:39,RETURN,Morbi non quam nec dui luctus rutrum.,82.44,1022
+301863,2022-03-20 07:28:04,LOST,Vestibulum ac est lacinia nisi venenatis tristique.,244.89,2781
+456910,2022-07-12 03:46:51,LOST,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",267.25,3340
+933518,2022-12-19 05:37:18,LOST,Proin eu mi.,114.46,3340
+773615,2022-08-11 23:38:32,RENEW,Nulla mollis molestie lorem.,347.81,1013
+741832,2022-07-14 00:04:41,LOST,Praesent id massa id nisl venenatis lacinia.,354.03,1199
+327707,2023-02-04 04:41:02,RETURN,Nullam sit amet turpis elementum ligula vehicula consequat.,131.13,4550
+612307,2022-08-05 08:34:58,RENEW,Nulla ut erat id mauris vulputate elementum.,230.21,1022
+716183,2022-11-28 16:46:52,LOST,Curabitur at ipsum ac tellus semper interdum.,18.04,3434
+206728,2023-02-16 05:53:21,LOST,Suspendisse potenti.,165.82,3434
+77187,2022-10-02 06:04:36,RENEW,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",43.03,1022
+207809,2022-08-05 07:57:56,RESERVE,Cras non velit nec nisi vulputate nonummy.,101.51,2088
+964898,2022-11-04 12:00:50,RENEW,Morbi vel lectus in quam fringilla rhoncus.,337.06,3340
+250754,2022-06-15 05:52:57,RETURN,Nunc nisl.,231.33,3434
+36605,2022-07-11 21:20:05,RENEW,Morbi a ipsum.,107.77,2088
+262504,2022-07-16 04:08:33,DAMAGED RETURN,Suspendisse potenti.,378.74,1199
+897146,2022-07-06 00:44:34,ISSUE,Donec semper sapien a libero.,200.86,2760
+491232,2022-06-17 00:07:20,LOST,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",363.4,2088
+941931,2022-04-28 19:10:08,RESERVE,Morbi non lectus.,249.68,1199
+139075,2022-10-28 10:04:44,DAMAGED RETURN,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",363.03,2760
+619762,2022-04-03 18:34:33,LOST,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",488.16,1013
+337195,2022-08-15 12:30:49,RENEW,Nam nulla.,452.45,3340
+728512,2022-05-06 16:05:53,RESERVE,Donec semper sapien a libero.,359.86,4550
+845370,2022-02-24 05:34:27,ISSUE,Morbi non lectus.,55.58,4550
+934558,2022-12-18 13:59:39,RESERVE,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",9.55,1199
+952005,2022-04-09 20:56:53,LOST,Sed vel enim sit amet nunc viverra dapibus.,452.4,2760
+23138,2022-04-09 14:59:50,RENEW,Duis at velit eu est congue elementum.,65.93,2088
+938175,2022-12-28 22:14:02,LOST,Proin eu mi.,177.81,2088
+442283,2022-05-05 06:25:26,RETURN,Nulla tempus.,231.19,1199
+980658,2022-07-15 04:38:47,DAMAGED RETURN,Nam tristique tortor eu pede.,17.06,3255
+228925,2022-12-09 08:20:10,RETURN,Sed sagittis.,411.16,3340
+916701,2022-07-18 17:56:43,LOST,Etiam vel augue.,74.1,1022
+257551,2022-09-15 16:29:42,LATE RETURN,Donec dapibus.,268.9,2760
+613546,2023-01-31 05:35:29,RETURN,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",243.87,1022
+933502,2022-08-27 15:36:52,LATE RETURN,Integer a nibh.,39.81,1199
+733980,2022-09-28 08:03:08,LATE RETURN,In hac habitasse platea dictumst.,56.41,2781
+666610,2022-05-28 07:19:34,RETURN,Suspendisse accumsan tortor quis turpis.,459.87,1013
+203808,2022-06-10 08:17:33,RESERVE,Proin interdum mauris non ligula pellentesque ultrices.,495.66,3434
+206967,2022-02-24 11:40:47,ISSUE,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",238.13,1013
+955903,2022-08-14 11:54:18,RESERVE,Vestibulum rutrum rutrum neque.,371.43,4550
+457359,2023-01-23 22:48:19,RETURN,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",471.36,3434
+748414,2022-09-06 17:19:29,ISSUE,Sed ante.,35.68,1022
+860784,2022-04-21 14:31:57,RENEW,Morbi a ipsum.,319.09,1022
+929609,2022-05-27 00:42:56,ISSUE,Aenean auctor gravida sem.,342.59,1022
+492253,2022-08-19 02:28:01,RETURN,Proin interdum mauris non ligula pellentesque ultrices.,185.18,2760
+872352,2022-07-14 16:51:40,RENEW,Aenean fermentum.,309.37,2760
+568177,2022-03-14 20:37:39,LOST,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",316.18,4550
+513066,2022-04-01 21:53:06,ISSUE,Nullam sit amet turpis elementum ligula vehicula consequat.,243.41,1013
+944433,2022-12-16 09:48:12,RETURN,In eleifend quam a odio.,145.34,3340
+399732,2022-08-10 15:53:24,LOST,Aliquam quis turpis eget elit sodales scelerisque.,204.81,3434
+257506,2023-01-24 04:42:18,LATE RETURN,Donec semper sapien a libero.,435.69,4550
+279766,2022-10-16 07:32:40,LOST,Morbi a ipsum.,79.95,2088
+850351,2022-10-20 00:18:08,LATE RETURN,Cras non velit nec nisi vulputate nonummy.,127.15,3340
+74638,2022-11-02 05:29:48,ISSUE,Morbi non lectus.,178.53,1022
+310280,2022-11-05 05:56:25,ISSUE,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",427,3255
+613361,2022-07-30 06:23:41,LOST,Nulla ut erat id mauris vulputate elementum.,253.25,3255
+505619,2022-08-01 22:44:31,LOST,Duis mattis egestas metus.,337.66,3255
+783966,2023-01-21 01:10:44,DAMAGED RETURN,Nam nulla.,164.51,3340
+11251,2022-05-01 13:08:30,DAMAGED RETURN,Vestibulum sed magna at nunc commodo placerat.,238.03,2760
+770105,2022-08-16 05:08:10,LOST,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",85.41,3340
+944451,2022-02-22 01:47:03,ISSUE,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",492.64,2088
+97608,2022-08-26 10:41:08,RENEW,Morbi vel lectus in quam fringilla rhoncus.,452.07,2781
+828452,2022-11-13 11:19:07,RENEW,Donec ut dolor.,150.04,3255
+784944,2022-10-06 23:33:32,DAMAGED RETURN,Vestibulum sed magna at nunc commodo placerat.,480.64,1022
+741731,2022-07-29 05:59:19,LOST,Sed vel enim sit amet nunc viverra dapibus.,363.25,1022
+500809,2023-01-09 17:14:23,RESERVE,Suspendisse potenti.,458.07,3340
+154106,2023-02-08 19:28:37,LOST,Nulla suscipit ligula in lacus.,409.41,2760
+920678,2022-09-02 08:26:56,RENEW,Duis aliquam convallis nunc.,383.15,3255
+262794,2022-10-04 01:38:37,ISSUE,Sed accumsan felis.,60.81,2760
+166503,2022-04-08 15:58:20,ISSUE,In hac habitasse platea dictumst.,483.25,3255
+24930,2022-06-29 04:22:05,DAMAGED RETURN,Suspendisse potenti.,281.97,1013
+398951,2022-08-07 08:47:10,RENEW,Vivamus vestibulum sagittis sapien.,193.56,3434
+630085,2022-08-08 23:58:39,RESERVE,Morbi ut odio.,170.26,2760
+370938,2023-02-13 12:09:12,RESERVE,Duis ac nibh.,367.68,2760
+558086,2022-07-09 01:40:34,LOST,Nulla nisl.,407.44,1013
+551643,2022-10-14 05:54:39,LOST,Quisque ut erat.,181.79,4550
+924988,2022-08-07 22:32:53,DAMAGED RETURN,Sed sagittis.,247.77,2781
+736875,2023-01-22 03:28:59,LATE RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",262.67,1013
+540453,2022-12-18 07:41:00,LOST,Morbi non quam nec dui luctus rutrum.,164.29,2781
+864916,2023-02-18 09:21:06,LOST,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",109.28,1022
+198546,2022-04-08 06:40:08,LOST,Suspendisse potenti.,386.88,1022
+230787,2022-06-19 16:59:04,LATE RETURN,Sed accumsan felis.,161.82,4550
+973961,2022-12-07 04:59:52,RESERVE,Praesent lectus.,165.02,1199
+233155,2022-10-31 03:34:03,RETURN,Nulla nisl.,465.65,2760
+748652,2022-12-07 02:15:37,DAMAGED RETURN,Etiam faucibus cursus urna.,224.23,3434
+772978,2022-03-29 15:41:40,LATE RETURN,Maecenas pulvinar lobortis est.,473.5,2088
+598593,2022-06-08 16:23:33,RESERVE,Fusce consequat.,329.65,1199
+796528,2022-02-22 16:44:55,LOST,Quisque porta volutpat erat.,340.72,2760
+498194,2022-05-04 02:49:20,DAMAGED RETURN,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",300.85,1022
+957698,2022-10-01 23:05:39,LATE RETURN,Cras non velit nec nisi vulputate nonummy.,427.85,1199
+389018,2022-05-06 20:20:57,RETURN,Maecenas rhoncus aliquam lacus.,374.36,2088
+452862,2022-04-18 00:13:34,RENEW,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",57.34,3434
+608422,2023-01-18 01:21:57,DAMAGED RETURN,Aliquam sit amet diam in magna bibendum imperdiet.,252.26,1022
+227414,2022-11-30 08:40:53,RETURN,Duis at velit eu est congue elementum.,277.06,3340
+803182,2022-04-02 12:06:03,LATE RETURN,Maecenas ut massa quis augue luctus tincidunt.,148.92,1022
+476773,2022-12-31 04:06:55,RETURN,Duis aliquam convallis nunc.,7.54,1022
+37000,2022-06-04 02:22:09,RETURN,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",416.45,1013
+2144,2022-09-14 12:23:08,ISSUE,Proin eu mi.,384.69,2781
+549068,2022-09-17 21:05:46,DAMAGED RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",182.82,3434
+578326,2022-06-01 16:55:48,RESERVE,Etiam pretium iaculis justo.,17.42,1199
+934195,2022-03-18 12:25:11,RETURN,Ut at dolor quis odio consequat varius.,236.87,2760
+215883,2022-03-25 22:05:31,RESERVE,Ut at dolor quis odio consequat varius.,400.37,3255
+509530,2022-07-26 15:18:36,RENEW,Vestibulum ac est lacinia nisi venenatis tristique.,195.49,3434
+317223,2022-05-01 04:30:38,DAMAGED RETURN,Maecenas pulvinar lobortis est.,455.12,1022
+333750,2022-10-24 16:34:20,DAMAGED RETURN,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",56.87,1199
+959928,2022-10-08 21:41:42,LOST,Nullam varius.,262.89,3434
+257307,2022-05-24 01:58:53,ISSUE,Donec quis orci eget orci vehicula condimentum.,142.04,2088
+508623,2022-10-10 05:09:00,RENEW,Morbi quis tortor id nulla ultrices aliquet.,262.25,1022
+123417,2022-07-14 18:07:57,ISSUE,Fusce consequat.,465.36,2088
+116312,2022-03-09 19:27:19,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,67.86,2760
+309560,2022-07-15 17:20:41,RETURN,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",248.84,1199
+86272,2022-09-03 02:21:42,LOST,Mauris sit amet eros.,308,3255
+836711,2022-11-19 03:11:18,RETURN,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",121.33,3340
+970319,2022-03-25 04:32:58,DAMAGED RETURN,Pellentesque viverra pede ac diam.,297.55,2781
+476180,2022-10-05 18:55:09,RENEW,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",465.23,1022
+558105,2022-08-09 16:12:12,LOST,Donec vitae nisi.,307.91,1199
+476986,2022-06-15 11:49:06,DAMAGED RETURN,In hac habitasse platea dictumst.,38.03,1199
+702595,2023-01-03 14:50:40,RETURN,Nullam sit amet turpis elementum ligula vehicula consequat.,180.53,4550
+851929,2022-03-25 19:24:50,ISSUE,Morbi non quam nec dui luctus rutrum.,344.6,4550
+269337,2022-12-31 18:53:49,RESERVE,Integer ac neque.,323.81,2760
+127988,2023-01-21 18:35:49,LATE RETURN,Integer ac neque.,392.69,1199
+137788,2023-01-02 10:25:24,ISSUE,Donec vitae nisi.,186.99,4550
+804458,2022-10-03 15:07:22,RESERVE,Morbi porttitor lorem id ligula.,32.26,2760
+140697,2022-03-19 05:56:14,RENEW,Maecenas rhoncus aliquam lacus.,203.12,1013
+995650,2022-03-15 20:49:57,LOST,Cras pellentesque volutpat dui.,483.03,1022
+758107,2022-10-15 04:46:12,DAMAGED RETURN,Integer a nibh.,127.72,3434
+827311,2023-01-19 04:10:38,DAMAGED RETURN,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",91.52,1022
+689807,2022-07-10 15:22:15,LATE RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",276.51,1022
+886854,2022-11-10 19:44:25,ISSUE,Curabitur at ipsum ac tellus semper interdum.,417.42,2760
+493222,2022-09-29 00:55:44,RETURN,Etiam justo.,278.06,1199
+397318,2023-01-27 13:56:03,RENEW,Donec dapibus.,15.05,1022
+173666,2022-09-17 17:58:40,RESERVE,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",247.14,2781
+622768,2022-06-28 23:17:30,RESERVE,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",423.05,3434
+6329,2023-01-30 07:28:24,RENEW,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",492.38,2088
+685368,2022-08-13 13:58:57,RESERVE,Praesent blandit.,308.43,3434
+583017,2022-04-17 02:08:05,LATE RETURN,Nulla ac enim.,9.29,1022
+716286,2022-03-07 08:31:34,RESERVE,Suspendisse accumsan tortor quis turpis.,68.65,3255
+86708,2023-01-22 08:00:09,DAMAGED RETURN,Duis bibendum.,157.42,4550
+301386,2022-02-27 22:38:40,RESERVE,Maecenas pulvinar lobortis est.,492.57,2781
+292985,2022-03-26 08:49:34,RETURN,Nunc purus.,423.17,1199
+399459,2022-11-12 23:07:24,LOST,Sed accumsan felis.,263.3,4550
+296287,2022-07-31 05:28:50,ISSUE,Integer non velit.,68.86,3434
+65114,2022-08-01 17:06:13,DAMAGED RETURN,Integer non velit.,380.95,3255
+36676,2022-03-03 23:01:55,RETURN,Aliquam sit amet diam in magna bibendum imperdiet.,441.35,2781
+666763,2022-10-16 20:22:51,LATE RETURN,Fusce posuere felis sed lacus.,242.77,1022
+819294,2022-09-07 16:54:58,RESERVE,Pellentesque eget nunc.,13.76,2088
+943864,2022-07-31 13:14:30,ISSUE,Vivamus in felis eu sapien cursus vestibulum.,295.17,3434
+122522,2022-12-25 01:48:55,RETURN,Cras pellentesque volutpat dui.,112.31,1022
+969069,2022-07-03 16:34:54,RETURN,Maecenas tincidunt lacus at velit.,27.7,2088
+855549,2022-03-25 01:05:59,ISSUE,Suspendisse ornare consequat lectus.,293.1,3434
+159508,2022-11-17 00:53:30,RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",70.27,2088
+965028,2023-01-30 16:16:36,RESERVE,Curabitur at ipsum ac tellus semper interdum.,57.76,3340
+865714,2022-08-24 16:19:23,LOST,Maecenas ut massa quis augue luctus tincidunt.,279.24,2781
+260539,2022-06-08 09:18:08,RENEW,Suspendisse ornare consequat lectus.,177.17,1199
+437939,2022-11-22 18:58:59,LOST,Proin at turpis a pede posuere nonummy.,241.53,2760
+411989,2023-02-16 16:51:33,RETURN,In hac habitasse platea dictumst.,202.11,1022
+385427,2022-08-18 06:51:12,LATE RETURN,Duis consequat dui nec nisi volutpat eleifend.,496.82,3434
+423035,2023-02-08 10:01:30,LOST,Fusce consequat.,113.37,3255
+707483,2022-03-07 15:00:49,DAMAGED RETURN,Vestibulum rutrum rutrum neque.,94.08,2088
+870833,2022-06-07 03:52:14,RENEW,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",184.96,3255
+205631,2022-08-20 23:10:15,RENEW,Pellentesque ultrices mattis odio.,251.86,2781
+576903,2022-12-11 05:08:41,LATE RETURN,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",363,2760
+952116,2022-08-01 15:47:39,DAMAGED RETURN,Nullam varius.,268.98,3434
+24170,2022-10-03 16:47:31,RENEW,Donec ut dolor.,276.54,1013
+279256,2022-10-27 12:43:32,DAMAGED RETURN,Morbi quis tortor id nulla ultrices aliquet.,273.67,4550
+560065,2022-10-04 14:29:39,LOST,Aliquam quis turpis eget elit sodales scelerisque.,463.31,2781
+48256,2022-07-24 02:05:40,RETURN,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",26.54,1022
+92590,2022-10-27 13:32:14,RENEW,Integer tincidunt ante vel ipsum.,356.72,3340
+161293,2022-05-22 23:46:00,RENEW,Suspendisse potenti.,155.91,2088
+645379,2022-03-22 02:40:45,LATE RETURN,Etiam faucibus cursus urna.,246.03,1022
+944595,2022-07-04 14:58:48,RETURN,Cras pellentesque volutpat dui.,270.07,1199
+39315,2022-03-15 16:18:19,LATE RETURN,Duis consequat dui nec nisi volutpat eleifend.,70.06,3255
+733065,2022-07-26 20:57:30,RENEW,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",4.66,3255
+519872,2022-07-03 14:03:39,LOST,Aenean auctor gravida sem.,469.33,3340
+873293,2022-11-26 14:41:34,LATE RETURN,Proin interdum mauris non ligula pellentesque ultrices.,178.1,1022
+234380,2022-05-18 01:54:12,DAMAGED RETURN,Pellentesque viverra pede ac diam.,464.82,2088
+494132,2022-11-23 11:55:18,RETURN,Aenean auctor gravida sem.,12.02,1013
+781117,2022-08-23 11:41:08,RETURN,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",148.35,3340
+153148,2022-10-06 04:26:50,RETURN,In congue.,279.93,3434
+640768,2022-03-31 00:53:26,LATE RETURN,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",119.43,2781
+613442,2022-09-07 02:58:59,LATE RETURN,Proin risus.,182,1013
+87311,2023-01-26 06:14:15,LOST,Nullam sit amet turpis elementum ligula vehicula consequat.,242.29,1022
+955525,2022-03-31 12:10:44,LOST,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",217.14,2781
+743603,2022-12-27 02:37:28,RETURN,Nulla nisl.,26.57,4550
+460528,2023-01-10 10:48:12,DAMAGED RETURN,Donec vitae nisi.,367.95,3255
+419064,2022-06-02 04:22:59,DAMAGED RETURN,Donec semper sapien a libero.,185.83,3255
+702245,2023-02-05 02:36:28,LOST,Proin interdum mauris non ligula pellentesque ultrices.,8.51,1022
+944551,2022-11-09 16:25:01,RETURN,In blandit ultrices enim.,321.35,1022
+130359,2022-06-17 23:43:06,LATE RETURN,Morbi ut odio.,168.13,4550
+903108,2022-02-22 19:18:34,ISSUE,In hac habitasse platea dictumst.,90.74,3255
+465547,2022-06-13 12:46:33,LATE RETURN,Aliquam quis turpis eget elit sodales scelerisque.,451.17,2088
+425539,2022-08-15 12:48:58,DAMAGED RETURN,Curabitur convallis.,176.6,2781
+122136,2023-01-10 02:36:00,DAMAGED RETURN,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",164.54,4550
+718066,2022-06-13 05:30:09,ISSUE,Nunc nisl.,260.37,3255
+17550,2022-06-02 23:13:52,RETURN,Proin interdum mauris non ligula pellentesque ultrices.,308.05,3255
+665200,2022-07-30 10:06:46,LOST,Morbi porttitor lorem id ligula.,399.67,3255
+747077,2022-04-07 05:41:10,RENEW,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",276.59,2088
+623754,2022-06-11 12:33:59,LOST,Morbi a ipsum.,4.42,1022
+841892,2022-12-17 23:43:18,RESERVE,Nam tristique tortor eu pede.,344.76,2781
+440490,2022-07-07 15:11:13,ISSUE,Morbi ut odio.,144.03,3340
+2919,2022-10-15 01:35:48,RESERVE,Nam tristique tortor eu pede.,51.92,1199
+485126,2023-01-01 03:18:08,LOST,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",313.44,2781
+75556,2022-02-22 06:02:06,DAMAGED RETURN,Suspendisse potenti.,38.42,3434
+405079,2022-09-20 12:55:16,LATE RETURN,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",384.68,1022
+718542,2022-04-12 18:40:04,RENEW,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",197.89,4550
+26414,2023-01-11 07:18:04,LOST,Duis ac nibh.,185.74,3434
+154638,2022-10-28 13:51:09,RENEW,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",10.84,3255
+510311,2022-09-12 16:08:00,RENEW,Suspendisse ornare consequat lectus.,76.61,3434
+165440,2023-01-22 15:00:18,RETURN,Nulla mollis molestie lorem.,221.03,1013
+489455,2022-08-03 02:16:44,LOST,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",496.27,2760
+561402,2022-07-18 18:28:18,RENEW,Nullam porttitor lacus at turpis.,224.55,2781
+959823,2022-11-01 03:22:58,RENEW,Proin at turpis a pede posuere nonummy.,143.29,1022
+982515,2022-08-19 13:04:59,RENEW,Ut at dolor quis odio consequat varius.,185.67,3340
+252902,2022-09-29 22:53:17,DAMAGED RETURN,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,357.74,1022
+466953,2022-12-06 04:43:40,RETURN,Integer tincidunt ante vel ipsum.,376.19,3434
+572465,2022-02-25 08:06:28,DAMAGED RETURN,Nulla justo.,431.98,2760
+771719,2023-01-07 15:40:16,DAMAGED RETURN,Maecenas ut massa quis augue luctus tincidunt.,113.81,1013
+348444,2022-09-20 13:12:53,RENEW,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",367.12,1199
+616095,2022-05-05 14:23:51,LATE RETURN,Duis aliquam convallis nunc.,287.54,2760
+525613,2022-06-15 04:49:29,RESERVE,Nulla facilisi.,112.41,1199
+319377,2022-12-03 17:03:11,RESERVE,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",391.66,1013
+663165,2022-07-23 01:24:23,LOST,Etiam justo.,114,4550
+518613,2022-08-24 01:07:06,RENEW,Maecenas pulvinar lobortis est.,257.33,2088
+963629,2022-05-22 03:24:28,ISSUE,In blandit ultrices enim.,449.73,2088
+976360,2022-11-14 20:01:22,ISSUE,Pellentesque ultrices mattis odio.,222.03,2781
+279945,2022-05-17 14:17:49,ISSUE,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,430.44,2781
+320456,2023-01-21 13:42:06,RETURN,In sagittis dui vel nisl.,402.21,1199
+975399,2022-09-06 08:15:03,RENEW,Morbi a ipsum.,391.42,1022
+188930,2022-05-11 00:05:39,LATE RETURN,Curabitur in libero ut massa volutpat convallis.,191.69,2781
+205111,2022-04-17 04:39:53,RESERVE,Duis ac nibh.,473.1,1022
+808023,2023-01-24 07:41:09,RENEW,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",268.7,1022
+56882,2022-07-04 15:41:04,ISSUE,Etiam faucibus cursus urna.,463.06,1013
+730396,2022-06-13 15:00:18,ISSUE,Cras non velit nec nisi vulputate nonummy.,187.64,3434
+169120,2022-12-18 13:46:51,ISSUE,Ut at dolor quis odio consequat varius.,91.68,1022
+877249,2022-12-06 21:48:06,ISSUE,Nulla ac enim.,298.55,2781
+691309,2022-11-06 22:21:55,RESERVE,In congue.,163.98,2760
+500218,2022-07-21 20:26:08,LOST,Mauris lacinia sapien quis libero.,388.83,2088
+245542,2022-04-27 10:20:05,LOST,Integer non velit.,146.26,1199
+218149,2022-11-07 07:23:25,RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",361.3,1199
+402999,2022-09-14 22:16:31,RENEW,In hac habitasse platea dictumst.,275.93,3255
+997191,2022-07-20 11:00:12,LATE RETURN,Proin risus.,309.34,1199
+222381,2022-12-27 04:00:06,RESERVE,Nulla ut erat id mauris vulputate elementum.,416.5,3255
+667751,2022-04-01 23:57:06,RENEW,Sed ante.,459.32,3340
+299811,2022-04-03 07:55:57,ISSUE,Maecenas pulvinar lobortis est.,347.91,3340
+701777,2022-10-13 23:14:22,ISSUE,Proin at turpis a pede posuere nonummy.,372.72,1013
+637951,2022-09-24 13:46:51,LOST,Cras in purus eu magna vulputate luctus.,19.88,1013
+631170,2022-03-22 03:34:48,RESERVE,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",224.57,2781
+386732,2022-08-06 02:45:12,ISSUE,Curabitur convallis.,291.58,3340
+841895,2022-09-01 05:17:46,ISSUE,Vestibulum ac est lacinia nisi venenatis tristique.,198.99,1199
+551642,2023-02-16 12:31:06,RENEW,Nulla nisl.,405.03,3340
+995731,2023-01-22 09:18:55,RESERVE,Maecenas ut massa quis augue luctus tincidunt.,70.11,1199
+795639,2023-01-06 12:29:15,LATE RETURN,Nulla tempus.,332.95,2088
+362432,2022-11-10 00:28:22,ISSUE,Aenean fermentum.,80.54,1022
+591475,2022-07-10 22:55:35,DAMAGED RETURN,Nulla suscipit ligula in lacus.,148.3,3434
+120929,2022-03-29 04:44:32,LOST,Pellentesque ultrices mattis odio.,343.69,4550
+94270,2022-10-18 13:09:38,ISSUE,Aenean auctor gravida sem.,17.07,2760
+548206,2022-12-15 09:36:14,RETURN,Aenean lectus.,171.93,3255
+471704,2022-06-23 13:48:33,RENEW,Etiam vel augue.,77.82,2088
+419839,2022-08-27 21:58:25,RESERVE,Aliquam sit amet diam in magna bibendum imperdiet.,434.66,4550
+954800,2023-01-19 02:43:13,ISSUE,Aliquam sit amet diam in magna bibendum imperdiet.,174.27,3434
+814346,2022-06-24 06:21:00,DAMAGED RETURN,Morbi non quam nec dui luctus rutrum.,88.08,2088
+922672,2022-04-02 13:48:44,RESERVE,Maecenas ut massa quis augue luctus tincidunt.,43.37,3340
+504767,2022-06-18 10:10:09,LATE RETURN,Duis aliquam convallis nunc.,229.71,2088
+632719,2022-03-30 19:15:29,DAMAGED RETURN,Etiam justo.,378.95,1013
+850156,2022-10-21 01:23:09,RESERVE,Integer tincidunt ante vel ipsum.,298.71,4550
+303571,2022-07-20 20:19:07,RENEW,Nulla tellus.,14.81,1022
+342907,2022-06-17 22:04:17,DAMAGED RETURN,In hac habitasse platea dictumst.,469.64,2760
+912653,2022-07-23 12:52:09,RETURN,Integer ac neque.,324.54,1022
+818018,2022-03-13 00:02:48,RESERVE,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",412.52,2781
+125521,2022-11-26 13:44:13,ISSUE,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",336.66,4550
+891087,2022-05-15 05:47:07,RENEW,Duis consequat dui nec nisi volutpat eleifend.,17.64,2088
+292810,2022-03-29 17:41:59,RENEW,Sed sagittis.,149.75,1022
+260642,2022-10-25 02:41:34,ISSUE,Proin eu mi.,52.9,3255
+317592,2023-02-07 20:13:37,LATE RETURN,Duis bibendum.,342.12,1022
+228245,2022-12-08 20:16:16,LOST,Sed vel enim sit amet nunc viverra dapibus.,103.35,1013
+695362,2022-10-10 00:05:39,LATE RETURN,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",253.03,1022
+664073,2022-11-04 22:58:32,RENEW,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",126.46,1013
+228195,2022-09-09 08:59:03,RETURN,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",75.07,3255
+10068,2022-06-04 18:39:55,RETURN,Morbi quis tortor id nulla ultrices aliquet.,183.65,3434
+60867,2022-02-24 17:31:21,ISSUE,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",443.63,2781
+838756,2022-10-30 14:32:33,ISSUE,Aliquam non mauris.,340.31,1013
+82287,2022-07-29 14:50:47,RESERVE,Fusce posuere felis sed lacus.,200.75,3255
+861317,2022-10-16 20:17:03,LATE RETURN,Proin eu mi.,404.44,4550
+193231,2022-08-22 09:07:43,RESERVE,Vivamus tortor.,187.48,2760
+17032,2022-06-08 16:19:18,LOST,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",16.57,3434
+962281,2022-12-15 16:48:23,RETURN,Nullam porttitor lacus at turpis.,330.08,3255
+207530,2023-02-15 10:05:50,RESERVE,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",163.41,3255
+901507,2022-05-11 18:28:24,LOST,Fusce consequat.,198.24,1199
+307983,2022-03-15 15:46:00,LOST,Morbi non lectus.,218.73,3340
+524048,2022-05-10 12:00:30,ISSUE,Aenean fermentum.,21.89,1013
+680936,2023-01-18 01:31:29,RETURN,Duis aliquam convallis nunc.,41.33,4550
+427255,2022-11-14 19:44:26,LOST,Nulla ac enim.,38.99,3340
+682233,2022-06-10 19:25:55,LATE RETURN,Nullam porttitor lacus at turpis.,145.96,2760
+637947,2023-01-28 13:05:54,DAMAGED RETURN,Nulla tempus.,253.83,4550
+819386,2022-04-07 07:27:31,LATE RETURN,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",128.92,1022
+986837,2022-06-22 16:01:45,DAMAGED RETURN,Quisque id justo sit amet sapien dignissim vestibulum.,190.19,1022
+981465,2022-04-08 03:45:53,LATE RETURN,Nulla ac enim.,322.27,1199
+124423,2022-05-09 04:12:35,LATE RETURN,Nullam sit amet turpis elementum ligula vehicula consequat.,487.07,2760
+517303,2022-07-14 13:31:43,RETURN,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",22.27,2781
+136035,2022-09-20 04:59:26,ISSUE,Duis ac nibh.,320.96,4550
+106613,2022-12-17 14:48:40,RESERVE,Praesent id massa id nisl venenatis lacinia.,127.78,2088
+612275,2022-10-18 21:34:22,LATE RETURN,Curabitur in libero ut massa volutpat convallis.,436.8,4550
+791678,2022-11-24 21:40:23,DAMAGED RETURN,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",58.74,2088
+434302,2022-08-08 14:22:23,RESERVE,Duis at velit eu est congue elementum.,134.09,1013
+126528,2022-05-06 14:03:30,LATE RETURN,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",107.58,2781
+933742,2022-03-03 18:21:46,LOST,Curabitur at ipsum ac tellus semper interdum.,40.75,3434
+677358,2022-09-04 00:50:44,RETURN,Suspendisse accumsan tortor quis turpis.,340.29,2088
+848332,2022-06-25 15:59:02,DAMAGED RETURN,In sagittis dui vel nisl.,56.54,1199
+482034,2022-08-07 05:57:19,RESERVE,Curabitur at ipsum ac tellus semper interdum.,356.83,4550
+47395,2022-06-21 04:50:00,RETURN,Suspendisse accumsan tortor quis turpis.,313.09,1013
+158196,2022-06-08 00:52:28,LOST,Integer ac neque.,155.99,2760
+7669,2022-12-25 18:25:58,RETURN,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",184.26,1199
+733787,2022-10-01 19:50:32,LATE RETURN,Quisque id justo sit amet sapien dignissim vestibulum.,444.94,2760
+945780,2022-04-14 21:53:14,LOST,Duis ac nibh.,248.37,3255
+680621,2022-06-18 13:44:24,RESERVE,Integer tincidunt ante vel ipsum.,312.52,3340
+503863,2022-05-15 14:18:08,ISSUE,Etiam vel augue.,169.97,4550
+753015,2022-10-23 19:33:11,RENEW,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,363.48,4550
+949125,2022-09-18 04:17:03,RETURN,Ut at dolor quis odio consequat varius.,395.68,3340
+210245,2022-05-01 01:12:34,LATE RETURN,Vestibulum rutrum rutrum neque.,148.88,1022
+775817,2023-01-15 14:44:25,LATE RETURN,In blandit ultrices enim.,6.24,3255
+278929,2022-09-24 12:41:03,RESERVE,Pellentesque viverra pede ac diam.,443.2,2781
+31007,2022-09-22 07:12:10,LOST,Donec vitae nisi.,310.91,3340
+247668,2022-09-08 07:28:32,LATE RETURN,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,335.86,4550
+159299,2023-02-19 17:22:53,RETURN,In hac habitasse platea dictumst.,260.22,3434
+449493,2022-07-11 14:28:48,RETURN,Pellentesque viverra pede ac diam.,427.12,2088
+848695,2022-05-13 02:48:41,ISSUE,Donec quis orci eget orci vehicula condimentum.,250.02,2088
+181583,2022-06-20 05:39:54,LOST,Etiam pretium iaculis justo.,366.77,4550
+248254,2022-04-05 23:01:06,ISSUE,Phasellus sit amet erat.,22.67,1022
+232781,2022-07-05 08:27:48,RETURN,Nunc nisl.,312.18,3434
+858215,2023-02-05 22:02:57,ISSUE,Maecenas tincidunt lacus at velit.,305.34,2781
+459410,2022-09-08 14:33:57,LOST,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",154.32,3340
+907784,2023-02-15 10:02:44,DAMAGED RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",237.71,2781
+447286,2022-07-08 04:42:15,ISSUE,Morbi vel lectus in quam fringilla rhoncus.,123.87,2088
+673429,2022-07-10 04:48:26,LOST,Maecenas tincidunt lacus at velit.,481.47,1199
+259572,2022-04-21 02:48:18,LATE RETURN,Quisque ut erat.,319.66,4550
+492772,2022-11-04 23:59:10,RETURN,Integer a nibh.,490.96,3434
+857338,2022-09-02 16:37:35,DAMAGED RETURN,Proin interdum mauris non ligula pellentesque ultrices.,430.58,4550
+128349,2022-10-12 18:49:21,LOST,Donec ut dolor.,66.87,1013
+793219,2022-04-28 15:03:24,DAMAGED RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",93.52,2760
+130649,2023-01-30 04:49:18,RETURN,Etiam vel augue.,448.86,2088
+634329,2022-07-18 02:11:40,RETURN,Donec ut dolor.,273.02,3255
+558788,2022-10-11 09:24:44,RETURN,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,15.52,4550
+165496,2022-08-04 10:41:12,LATE RETURN,Donec quis orci eget orci vehicula condimentum.,456.39,2088
+413418,2022-11-27 06:58:17,LATE RETURN,Etiam vel augue.,53.38,2088
+412173,2022-03-06 20:58:16,RENEW,Proin at turpis a pede posuere nonummy.,182.24,4550
+693741,2022-08-01 10:44:01,DAMAGED RETURN,Vivamus tortor.,325.93,2760
+402682,2022-12-18 02:32:06,LOST,Vivamus in felis eu sapien cursus vestibulum.,435.85,2088
+804487,2022-02-26 20:14:27,RENEW,Nam dui.,412.89,4550
+26825,2022-05-10 06:33:12,RENEW,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",268.28,1022
+772882,2022-07-22 10:52:37,DAMAGED RETURN,Aenean fermentum.,332.51,1199
+718646,2022-12-18 17:15:35,RENEW,Vivamus vel nulla eget eros elementum pellentesque.,23.72,1013
+605895,2022-12-28 15:10:26,LATE RETURN,Suspendisse accumsan tortor quis turpis.,248.19,1199
+161710,2022-07-27 04:31:40,RENEW,Suspendisse potenti.,317.49,1022
+660010,2022-03-27 21:52:01,ISSUE,Sed ante.,213.9,2781
+317264,2022-06-01 11:54:52,LATE RETURN,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",447.18,2781
+308532,2022-04-11 23:15:20,LATE RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",426.31,2088
+120121,2022-07-15 17:59:56,RETURN,Aenean fermentum.,495.36,2781
+921138,2022-08-15 20:07:26,LOST,Donec posuere metus vitae ipsum.,208.58,1022
+678275,2022-05-09 09:59:34,RETURN,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,447.41,2760
+456751,2022-03-09 04:33:28,DAMAGED RETURN,Duis mattis egestas metus.,315.2,3255
+795961,2022-11-13 22:07:42,LATE RETURN,Nunc nisl.,237.12,1022
+21825,2022-06-30 14:02:37,LOST,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",65.19,1199
+250594,2022-12-27 18:01:35,RESERVE,Aenean lectus.,96.8,2088
+645213,2022-07-05 02:48:40,LOST,Aliquam erat volutpat.,430.1,4550
+23412,2022-03-09 21:22:50,LOST,Pellentesque at nulla.,12.46,1199
+610434,2022-10-29 21:33:15,RESERVE,Nulla ut erat id mauris vulputate elementum.,391.01,3434
+199660,2023-02-01 09:00:33,ISSUE,Nulla justo.,363.79,4550
+745193,2023-01-21 19:25:21,LOST,Curabitur convallis.,372.6,1013
+451194,2022-07-21 14:38:29,DAMAGED RETURN,Proin interdum mauris non ligula pellentesque ultrices.,146.28,4550
+547841,2022-06-10 21:45:30,DAMAGED RETURN,Quisque id justo sit amet sapien dignissim vestibulum.,336.89,3434
+600041,2022-08-03 13:59:56,DAMAGED RETURN,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",395.33,1022
+780040,2022-11-14 03:54:59,RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",452.75,1013
+127641,2022-08-23 07:52:05,LOST,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",86.17,2760
+622648,2022-12-16 06:40:23,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,496.89,2088
+215770,2022-06-14 13:32:43,LOST,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",163.48,1199
+529256,2022-06-23 23:52:52,ISSUE,Nullam sit amet turpis elementum ligula vehicula consequat.,44.48,3255
+428348,2022-08-06 10:25:05,LATE RETURN,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",237.11,2760
+514795,2023-01-23 17:01:17,RENEW,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",327.34,1199
+926057,2022-03-07 21:17:08,ISSUE,Nulla tellus.,287.54,3434
+726019,2023-02-02 04:25:19,LOST,In blandit ultrices enim.,82.6,3340
+80523,2022-10-21 04:55:36,ISSUE,Nunc purus.,154.33,1022
+853883,2023-01-05 09:56:07,DAMAGED RETURN,Integer ac leo.,154.49,1199
+925681,2022-08-12 18:46:39,LATE RETURN,Duis mattis egestas metus.,329.03,1022
+630527,2022-12-13 05:10:03,LATE RETURN,Sed accumsan felis.,35.25,3255
+926442,2022-08-02 09:23:52,DAMAGED RETURN,Nulla tellus.,464.78,2760
+837767,2022-07-19 03:40:34,LATE RETURN,In hac habitasse platea dictumst.,313.12,1022
+421847,2022-07-03 20:21:53,RETURN,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",456.59,1199
+888635,2022-05-09 20:53:11,RETURN,In sagittis dui vel nisl.,138.12,1199
+705727,2022-12-30 09:21:36,RETURN,Cras non velit nec nisi vulputate nonummy.,426.16,4550
+966046,2022-11-15 01:51:29,RENEW,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",430.43,2781
+258246,2022-08-21 14:26:20,DAMAGED RETURN,In sagittis dui vel nisl.,258.07,2088
+794764,2022-09-16 01:40:49,ISSUE,Nulla ut erat id mauris vulputate elementum.,192.07,2088
+897231,2022-03-01 18:12:30,ISSUE,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",73.3,3340
+133443,2022-06-22 17:24:14,RESERVE,Nullam porttitor lacus at turpis.,142.78,3255
+986999,2023-01-30 09:48:55,ISSUE,Aenean fermentum.,312.85,3255
+313490,2022-10-06 05:51:53,DAMAGED RETURN,Fusce consequat.,182.61,3255
+131086,2022-09-05 05:33:31,RESERVE,Duis mattis egestas metus.,340.44,1199
+357371,2022-09-26 00:33:15,DAMAGED RETURN,Morbi ut odio.,289.83,1022
+197054,2022-05-09 15:48:37,RETURN,Nullam molestie nibh in lectus.,369.6,1199
+323082,2022-10-10 03:07:36,LOST,Vivamus vel nulla eget eros elementum pellentesque.,293.83,3434
+810377,2022-07-10 01:48:15,LOST,Maecenas rhoncus aliquam lacus.,228.67,3340
+886619,2022-09-29 03:45:29,ISSUE,Fusce consequat.,91.81,3255
+740701,2022-05-29 15:01:22,DAMAGED RETURN,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",220.91,1022
+32490,2022-07-15 19:40:55,LOST,Morbi porttitor lorem id ligula.,219.54,3340
+551414,2022-04-08 12:48:21,LATE RETURN,Sed ante.,221.34,3340
+750203,2022-02-21 18:35:46,RESERVE,Aliquam sit amet diam in magna bibendum imperdiet.,167.76,3340
+907752,2022-11-30 06:51:18,RESERVE,Proin interdum mauris non ligula pellentesque ultrices.,74.15,3255
+880995,2022-06-12 03:27:37,ISSUE,Etiam justo.,52.01,1022
+77735,2023-02-08 13:43:33,RENEW,Donec ut mauris eget massa tempor convallis.,192.02,1199
+905262,2022-09-04 03:24:13,LOST,Maecenas ut massa quis augue luctus tincidunt.,153.02,2760
+64882,2022-12-04 00:25:20,RENEW,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",109.44,1199
+784987,2022-12-07 10:17:12,ISSUE,Nulla justo.,122.21,3255
+808603,2023-01-10 18:23:05,ISSUE,In blandit ultrices enim.,33.73,1199
+202858,2022-09-05 00:52:30,RESERVE,Nullam sit amet turpis elementum ligula vehicula consequat.,156.57,1013
+965480,2022-07-14 23:11:38,RETURN,Proin risus.,146.37,1013
+892719,2022-11-14 02:02:46,LOST,Aenean auctor gravida sem.,312.15,2088
+75905,2022-07-26 05:16:50,LOST,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",247.81,2088
+470946,2023-01-23 06:07:56,RENEW,Etiam vel augue.,62.67,1199
+611492,2022-12-22 09:44:18,DAMAGED RETURN,Curabitur in libero ut massa volutpat convallis.,349.9,1022
+706833,2022-12-08 23:47:43,LOST,Aliquam sit amet diam in magna bibendum imperdiet.,325.74,2781
+406657,2022-10-05 04:17:30,LATE RETURN,Praesent blandit.,163.82,3434
+619863,2022-06-25 15:32:15,LOST,Nulla tellus.,294.75,2088
+257623,2022-09-19 20:20:08,LOST,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",98.88,4550
+80170,2023-01-21 03:35:21,ISSUE,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",162.16,3255
+679021,2023-02-11 01:47:40,RENEW,Sed ante.,177.24,1013
+783676,2022-08-10 12:09:50,DAMAGED RETURN,Suspendisse potenti.,99.24,1199
+397027,2022-09-24 16:19:00,LATE RETURN,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",64.06,2781
+887211,2022-04-02 18:10:07,RESERVE,Vestibulum ac est lacinia nisi venenatis tristique.,362.97,1013
+932571,2022-11-02 04:29:23,LOST,Vestibulum rutrum rutrum neque.,488.58,1199
+819237,2022-09-23 02:26:30,DAMAGED RETURN,Sed sagittis.,123.38,4550
+714721,2022-10-07 02:33:41,RETURN,Aliquam non mauris.,479.74,3340
+305277,2022-10-24 15:16:21,RETURN,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",40.57,3434
+751986,2022-04-15 07:51:06,RESERVE,Aenean lectus.,276.63,4550
+944112,2022-07-10 16:52:43,RETURN,Pellentesque viverra pede ac diam.,104.33,1199
+102155,2022-06-10 19:48:39,RESERVE,In congue.,320.52,2760
+393125,2023-02-08 14:48:21,ISSUE,Phasellus sit amet erat.,248.75,3255
+6791,2022-03-31 16:57:28,LOST,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",447.42,3434
+651590,2022-03-24 08:19:34,RENEW,Donec quis orci eget orci vehicula condimentum.,475.38,3340
+671189,2022-03-21 06:11:09,RETURN,Vivamus tortor.,303.45,2781
+961287,2022-09-06 02:02:48,ISSUE,Aenean auctor gravida sem.,444.77,3255
+995516,2023-02-05 18:12:10,RESERVE,Nam nulla.,314.73,4550
+805850,2022-12-13 08:18:33,LOST,Aliquam sit amet diam in magna bibendum imperdiet.,386.6,1022
+798618,2022-06-21 09:26:11,DAMAGED RETURN,Duis ac nibh.,283.79,1199
+702949,2023-01-09 04:22:08,RETURN,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",164.58,2088
+898414,2022-05-03 22:58:58,RESERVE,Duis bibendum.,311.43,1022
+904962,2022-10-12 00:08:19,LATE RETURN,Donec ut dolor.,364.07,3434
+353270,2022-09-26 00:23:46,DAMAGED RETURN,Etiam pretium iaculis justo.,295.07,1022
+697791,2022-07-03 09:34:10,RESERVE,Suspendisse potenti.,226.93,2088
+207034,2022-09-08 19:22:15,ISSUE,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,6.7,3340
+839949,2022-06-27 09:42:26,DAMAGED RETURN,Curabitur gravida nisi at nibh.,319.09,3340
+460316,2022-10-16 18:19:08,RENEW,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",180.05,2088
+830762,2022-06-20 06:36:11,RESERVE,Fusce consequat.,302.97,1013
+759204,2022-07-23 02:48:24,DAMAGED RETURN,Nunc purus.,76.66,2781
+481879,2022-09-21 17:39:14,LATE RETURN,Cras non velit nec nisi vulputate nonummy.,474.42,2781
+839829,2022-11-19 16:57:18,LOST,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",433.5,1013
+700141,2023-01-01 11:20:37,ISSUE,Mauris sit amet eros.,404.63,3255
+844821,2022-04-02 01:09:21,RESERVE,Pellentesque ultrices mattis odio.,36.08,3255
+201752,2022-03-15 19:17:52,LATE RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",298.5,1199
+181810,2023-02-18 03:55:20,RETURN,Etiam pretium iaculis justo.,422.9,3340
+271886,2022-10-11 17:14:20,ISSUE,Morbi ut odio.,318.51,2760
+76059,2022-12-17 12:54:15,RESERVE,Vivamus vel nulla eget eros elementum pellentesque.,389.09,2760
+464308,2022-06-24 13:53:38,RESERVE,Nullam molestie nibh in lectus.,253.16,1022
+102253,2022-06-15 15:46:48,RESERVE,Mauris lacinia sapien quis libero.,152.89,1199
+256285,2022-05-29 04:40:04,RESERVE,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",492.94,2781
+639398,2022-08-10 15:22:15,RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",420.61,3434
+630507,2023-02-03 15:39:22,LATE RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",348.01,3340
+793954,2022-06-16 16:56:26,ISSUE,Integer ac leo.,478.95,1022
+88544,2022-05-14 01:05:42,LOST,Curabitur at ipsum ac tellus semper interdum.,439.04,2088
+797828,2022-05-21 03:27:17,ISSUE,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",130.68,2088
+606385,2022-08-08 06:46:15,DAMAGED RETURN,Phasellus sit amet erat.,325.61,2760
+286364,2022-03-14 04:06:30,ISSUE,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",352.83,3434
+362025,2022-11-18 00:36:36,ISSUE,In quis justo.,262.39,1022
+759242,2022-07-24 22:05:59,RENEW,Morbi vel lectus in quam fringilla rhoncus.,283.38,1013
+742174,2022-04-03 00:27:15,RESERVE,In blandit ultrices enim.,493.65,3434
+238268,2022-05-02 02:27:17,RESERVE,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",54.9,2781
+665493,2022-08-17 23:12:24,DAMAGED RETURN,In hac habitasse platea dictumst.,127.32,4550
+653856,2022-05-19 05:28:27,LATE RETURN,Phasellus sit amet erat.,326.3,3255
+123917,2022-04-10 04:23:55,DAMAGED RETURN,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",181.1,1022
+249621,2022-03-31 23:46:07,LOST,Integer ac neque.,156.13,1013
+754002,2022-12-16 13:32:07,LATE RETURN,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",189.14,1022
+948700,2022-09-29 14:52:17,RENEW,Aliquam quis turpis eget elit sodales scelerisque.,414.75,2088
+203031,2022-08-27 02:52:51,LATE RETURN,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",92.99,2781
+628362,2022-09-03 06:55:17,RENEW,Curabitur in libero ut massa volutpat convallis.,401.64,2760
+277033,2022-09-16 03:53:57,RENEW,Maecenas pulvinar lobortis est.,101.58,4550
+299009,2022-09-16 17:24:14,RESERVE,Quisque ut erat.,210.57,4550
+603660,2022-06-24 11:24:43,RESERVE,Nulla ut erat id mauris vulputate elementum.,309.58,1013
+54454,2023-02-14 01:22:53,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,53.95,3255
+113153,2022-04-06 19:56:22,RENEW,Fusce posuere felis sed lacus.,96.24,1013
+8636,2022-10-13 06:14:58,DAMAGED RETURN,Sed sagittis.,63,3434
+120231,2022-06-08 18:51:40,ISSUE,Curabitur at ipsum ac tellus semper interdum.,15.55,1013
+328034,2022-09-02 23:59:56,LOST,Duis at velit eu est congue elementum.,276.47,3340
+820755,2022-09-20 15:40:59,RETURN,Sed ante.,192.99,2088
+106513,2023-01-24 15:36:55,RENEW,Praesent lectus.,301.53,2781
+417542,2022-10-06 00:54:23,RETURN,Etiam vel augue.,90.77,2088
+65255,2022-03-18 09:24:45,DAMAGED RETURN,Etiam vel augue.,406.8,1199
+637740,2022-12-18 05:15:50,RENEW,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,456.82,3340
+88935,2022-08-05 16:50:21,LOST,Proin at turpis a pede posuere nonummy.,183.15,1013
+131945,2022-02-26 05:34:14,RENEW,Aliquam quis turpis eget elit sodales scelerisque.,279.88,4550
+611567,2022-11-21 20:52:20,ISSUE,Integer a nibh.,18.89,2760
+87391,2023-01-07 19:57:27,RESERVE,Cras non velit nec nisi vulputate nonummy.,467.08,1022
+628230,2022-04-29 20:36:53,RESERVE,Mauris ullamcorper purus sit amet nulla.,478.84,1199
+210467,2022-03-19 23:13:16,ISSUE,Nulla mollis molestie lorem.,172.74,1022
+294353,2022-12-25 10:09:06,LATE RETURN,Curabitur at ipsum ac tellus semper interdum.,483.34,1013
+327857,2022-03-31 01:54:53,LATE RETURN,Pellentesque eget nunc.,148.91,2760
+518535,2022-05-09 14:15:08,LOST,In quis justo.,395.33,1013
+678608,2023-01-16 12:51:08,DAMAGED RETURN,In hac habitasse platea dictumst.,288.71,3255
+826444,2022-12-29 00:41:38,RENEW,Aliquam non mauris.,194.81,3434
+674396,2022-12-30 15:15:33,RESERVE,Suspendisse potenti.,206.2,2760
+615433,2022-10-26 23:01:05,RENEW,Aliquam erat volutpat.,405.54,1013
+138544,2022-06-24 21:34:36,LOST,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",456.38,1022
+457529,2022-06-28 10:54:51,RESERVE,Vestibulum rutrum rutrum neque.,281.75,1013
+891509,2023-01-10 16:15:28,RETURN,Etiam faucibus cursus urna.,162.08,3434
+836836,2022-10-12 09:57:44,DAMAGED RETURN,Morbi quis tortor id nulla ultrices aliquet.,371.64,2760
+363325,2022-08-16 11:39:24,LATE RETURN,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",211.03,2781
+564059,2022-03-14 00:47:47,RESERVE,Donec vitae nisi.,111.33,2088
+710169,2022-05-08 18:35:08,RESERVE,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",98.21,2760
+796142,2022-04-28 01:01:07,DAMAGED RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",407.32,1013
+3974,2023-01-09 10:51:03,RETURN,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",199.04,3434
+529585,2023-01-06 08:14:17,DAMAGED RETURN,In congue.,192.72,2760
+918590,2022-03-03 00:23:59,DAMAGED RETURN,Pellentesque at nulla.,380.65,1013
+193381,2022-04-27 21:21:37,LATE RETURN,Donec dapibus.,378.54,2781
+182924,2022-04-25 02:53:21,ISSUE,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",65.88,3340
+37962,2022-08-14 07:11:14,ISSUE,Sed sagittis.,132.93,1013
+529214,2022-07-30 23:17:01,RESERVE,Aenean auctor gravida sem.,72.5,3340
+445147,2022-03-25 20:39:21,LOST,Nullam sit amet turpis elementum ligula vehicula consequat.,123.71,2088
+816885,2023-01-21 21:13:23,LATE RETURN,Morbi a ipsum.,205.23,4550
+966848,2023-01-09 02:19:56,RENEW,Pellentesque ultrices mattis odio.,189.48,2781
+235749,2022-11-08 19:57:45,LOST,Vestibulum rutrum rutrum neque.,168.09,1013
+113699,2022-09-06 05:03:07,RESERVE,Vestibulum ac est lacinia nisi venenatis tristique.,420.53,2088
+438411,2023-01-27 14:38:22,ISSUE,Maecenas rhoncus aliquam lacus.,373.97,3434
+807032,2022-12-21 00:46:41,RESERVE,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",391.83,2088
+651397,2022-12-19 05:16:15,LOST,Duis mattis egestas metus.,410.36,1013
+92333,2022-12-03 10:52:59,ISSUE,Maecenas rhoncus aliquam lacus.,76.38,3434
+175426,2022-10-11 13:29:52,LATE RETURN,Curabitur convallis.,37.71,1199
+63785,2022-08-07 03:01:09,LOST,Praesent blandit lacinia erat.,370.12,4550
+689956,2022-10-25 05:36:35,LOST,Morbi a ipsum.,421.17,2760
+178996,2023-01-13 15:45:39,LATE RETURN,Pellentesque at nulla.,87.5,2088
+924539,2022-03-02 09:19:11,RETURN,Donec dapibus.,437.59,3340
+706531,2022-11-08 09:43:14,DAMAGED RETURN,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",391.65,3340
+201298,2023-01-16 14:46:36,DAMAGED RETURN,Sed vel enim sit amet nunc viverra dapibus.,477.61,2760
+21660,2022-04-03 10:17:56,RENEW,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",391.48,1022
+872426,2022-04-18 23:31:19,RENEW,Suspendisse ornare consequat lectus.,181.56,3255
+759097,2022-10-23 02:55:02,RESERVE,Mauris sit amet eros.,103.31,1022
+261616,2023-01-26 21:02:06,DAMAGED RETURN,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",415.13,2760
+572802,2022-12-08 08:47:30,LATE RETURN,Sed accumsan felis.,358.23,3340
+884492,2022-07-25 08:37:29,ISSUE,Aenean fermentum.,244.86,3255
+633816,2022-10-07 12:20:18,RETURN,Morbi quis tortor id nulla ultrices aliquet.,369.78,1013
+523484,2023-01-22 21:36:18,RETURN,Morbi non quam nec dui luctus rutrum.,384.73,3434
+173973,2023-01-27 06:02:06,DAMAGED RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",425.17,3340
+494714,2022-10-08 14:23:19,DAMAGED RETURN,Nullam molestie nibh in lectus.,398.49,3255
+168847,2022-07-10 07:15:32,RENEW,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",65.75,2760
+821460,2023-01-15 14:50:56,RESERVE,Mauris sit amet eros.,23.6,1022
+977746,2022-04-19 02:58:49,ISSUE,Integer ac neque.,437.09,1013
+929427,2022-12-07 16:18:31,RETURN,Ut tellus.,8.61,1022
+322427,2022-07-05 23:57:43,DAMAGED RETURN,Nullam molestie nibh in lectus.,183.25,1013
+823101,2022-03-01 23:43:56,LATE RETURN,Duis aliquam convallis nunc.,54.68,3434
+190636,2022-12-03 10:17:16,LATE RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",113.69,1013
+838253,2022-08-22 00:37:06,RETURN,Duis consequat dui nec nisi volutpat eleifend.,338.94,1013
+383175,2022-05-18 17:48:00,LOST,Integer tincidunt ante vel ipsum.,40.54,3255
+984673,2022-11-29 19:31:41,RENEW,Curabitur gravida nisi at nibh.,341.88,3340
+628965,2022-08-19 09:16:38,LOST,Ut at dolor quis odio consequat varius.,315.36,3434
+242475,2022-04-27 22:07:19,ISSUE,Suspendisse accumsan tortor quis turpis.,227.49,2760
+531823,2022-06-07 15:40:27,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,145.34,2760
+95081,2022-05-14 22:36:58,LOST,Cras non velit nec nisi vulputate nonummy.,70.3,1022
+923646,2022-07-04 01:21:12,ISSUE,Nullam molestie nibh in lectus.,382.46,3434
+778205,2022-07-12 13:17:38,RESERVE,Nunc nisl.,66.14,1199
+964778,2022-12-11 12:27:23,LOST,Vestibulum ac est lacinia nisi venenatis tristique.,30.06,1013
+480261,2022-08-01 09:53:09,LATE RETURN,Aliquam sit amet diam in magna bibendum imperdiet.,78.45,3255
+357257,2023-02-04 05:19:44,LOST,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",452.48,3340
+826733,2022-03-11 14:23:37,RENEW,Pellentesque ultrices mattis odio.,290.57,2781
+531388,2022-02-27 23:15:23,DAMAGED RETURN,Nulla suscipit ligula in lacus.,87.55,2760
+159784,2022-04-25 10:32:52,DAMAGED RETURN,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",311.71,3340
+122554,2022-03-14 12:52:27,LATE RETURN,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",190.74,2760
+665632,2022-11-11 11:21:08,RESERVE,Pellentesque viverra pede ac diam.,445.08,3340
+866032,2022-10-23 14:50:23,RESERVE,Pellentesque ultrices mattis odio.,72.85,1022
+996090,2022-11-04 15:31:48,RENEW,Quisque porta volutpat erat.,331.24,1022
+354971,2022-02-21 03:30:10,RENEW,Cras pellentesque volutpat dui.,434.69,2088
+503048,2022-07-25 18:54:20,DAMAGED RETURN,Nunc purus.,381.04,4550
+156963,2022-03-07 02:00:53,ISSUE,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",314.1,3255
+399818,2022-07-18 18:14:41,LOST,Nunc nisl.,163.3,3340
+719111,2022-08-09 06:25:39,ISSUE,In hac habitasse platea dictumst.,378.5,2760
+53897,2022-08-14 15:51:07,LATE RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",227.29,3340
+146771,2022-10-25 20:27:35,ISSUE,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",23.88,4550
+45630,2022-09-22 06:20:46,LOST,Suspendisse potenti.,345.99,3255
+56936,2022-07-25 13:12:31,LOST,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",223.73,1022
+114340,2022-11-25 04:10:45,ISSUE,Duis mattis egestas metus.,499.09,2760
+10988,2022-11-18 04:04:12,ISSUE,Morbi a ipsum.,453.28,3434
+612800,2022-09-28 22:45:25,LATE RETURN,Nunc rhoncus dui vel sem.,237.61,3340
+602078,2022-05-30 09:11:12,RESERVE,Curabitur gravida nisi at nibh.,458.43,1199
+400371,2022-11-12 07:03:32,ISSUE,Pellentesque ultrices mattis odio.,142.62,2088
+539843,2022-03-07 19:04:54,DAMAGED RETURN,Etiam vel augue.,348.03,3340
+34182,2023-02-07 06:33:32,DAMAGED RETURN,Quisque ut erat.,82.1,2781
+793689,2023-01-09 23:23:34,LATE RETURN,Sed vel enim sit amet nunc viverra dapibus.,279.36,1013
+39286,2023-02-01 00:48:28,DAMAGED RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",95.79,2760
+599843,2023-01-26 08:38:09,LATE RETURN,Aenean auctor gravida sem.,169.79,2781
+141622,2022-12-28 09:37:23,RENEW,Maecenas ut massa quis augue luctus tincidunt.,173.03,3434
+442302,2022-12-25 14:53:51,RESERVE,Nulla facilisi.,216.72,2781
+115021,2023-01-13 09:17:04,RETURN,Nulla nisl.,57.22,2088
+960900,2022-08-10 22:20:48,LOST,Morbi vel lectus in quam fringilla rhoncus.,128.57,3255
+109391,2022-10-18 15:23:16,RESERVE,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",406.12,1199
+503375,2022-09-06 20:20:29,RESERVE,Praesent blandit lacinia erat.,219.43,3340
+367746,2022-09-02 13:48:41,RETURN,Nulla ac enim.,355.87,1022
+711546,2022-07-27 20:43:51,RETURN,Mauris ullamcorper purus sit amet nulla.,427.69,2760
+261858,2022-06-18 21:43:39,DAMAGED RETURN,Duis at velit eu est congue elementum.,28.08,1013
+692074,2022-10-22 15:50:32,LATE RETURN,Ut at dolor quis odio consequat varius.,424.6,4550
+745323,2022-12-19 06:10:25,ISSUE,Nullam sit amet turpis elementum ligula vehicula consequat.,434.04,3434
+768401,2022-04-29 15:59:58,DAMAGED RETURN,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",99.49,3340
+423606,2023-02-10 04:51:55,RETURN,Morbi porttitor lorem id ligula.,170.13,2760
+57226,2022-07-14 13:51:33,LOST,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",159.78,2088
+279530,2022-05-19 07:11:07,LATE RETURN,Nulla nisl.,302.91,1199
+156242,2022-11-12 01:19:14,LOST,Nullam porttitor lacus at turpis.,398.94,1022
+967863,2022-04-27 20:50:27,ISSUE,Suspendisse potenti.,352.19,1199
+133622,2022-05-15 22:31:46,DAMAGED RETURN,Nunc nisl.,375.88,1199
+800280,2022-09-13 07:16:21,DAMAGED RETURN,In congue.,213.85,3340
+858470,2022-04-26 19:58:01,RETURN,Vestibulum sed magna at nunc commodo placerat.,264.99,3340
+734467,2022-03-07 19:01:50,RESERVE,Aliquam quis turpis eget elit sodales scelerisque.,466.07,1013
+269489,2022-07-02 19:57:15,RENEW,Quisque ut erat.,435.2,2760
+592597,2022-07-22 05:55:58,ISSUE,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",14.65,4550
+598241,2022-04-28 17:12:12,DAMAGED RETURN,Curabitur at ipsum ac tellus semper interdum.,44.8,1199
+448416,2022-12-24 12:49:45,LATE RETURN,Curabitur in libero ut massa volutpat convallis.,70.8,1022
+853238,2022-02-26 06:42:42,RETURN,Donec dapibus.,397.85,1013
+618927,2022-05-16 04:04:58,RETURN,Duis consequat dui nec nisi volutpat eleifend.,310.27,2088
+458112,2022-03-27 08:12:52,DAMAGED RETURN,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",301.24,2088
+446680,2022-07-17 21:39:12,RETURN,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",293.06,4550
+118114,2022-08-16 04:31:02,ISSUE,Phasellus in felis.,464.43,1022
+885248,2022-11-26 01:32:58,RESERVE,Nulla ac enim.,351.62,2781
+754314,2022-06-18 19:09:11,RETURN,Duis consequat dui nec nisi volutpat eleifend.,490.45,4550
+147880,2022-09-24 12:39:33,RETURN,Maecenas ut massa quis augue luctus tincidunt.,492.61,3255
+895934,2022-09-07 05:29:21,RENEW,Donec vitae nisi.,297.45,1013
+909233,2022-10-01 04:28:35,RESERVE,In hac habitasse platea dictumst.,333.98,4550
+545553,2022-05-22 07:17:58,RENEW,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",266.39,2760
+78901,2022-04-04 03:34:31,LOST,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",288.07,3340
+184687,2022-07-23 08:32:05,ISSUE,Phasellus in felis.,187.21,1022
+943539,2022-06-02 01:18:47,ISSUE,Morbi non lectus.,315.39,3434
+176957,2022-08-09 05:55:58,ISSUE,Pellentesque at nulla.,102.28,4550
+706052,2022-08-28 01:08:02,LATE RETURN,Morbi non lectus.,356.64,1199
+430818,2022-09-26 07:50:31,RENEW,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",402.14,1013
+943435,2022-03-30 02:45:58,LOST,Mauris lacinia sapien quis libero.,307.39,3340
+811194,2022-12-04 10:25:08,LATE RETURN,Aenean auctor gravida sem.,289.3,1199
+384860,2022-10-06 11:50:32,RETURN,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",172.46,2760
+362851,2022-05-25 01:27:31,RENEW,Phasellus in felis.,202.55,2088
+812294,2022-08-14 17:50:01,DAMAGED RETURN,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",471.7,3434
+773907,2022-11-19 07:58:52,RETURN,Aliquam quis turpis eget elit sodales scelerisque.,119.18,2088
+671517,2022-07-24 04:08:52,RENEW,Sed sagittis.,162.45,3340
+889035,2023-02-17 11:32:24,RETURN,Suspendisse potenti.,15.93,3434
+833088,2023-01-04 00:22:55,LATE RETURN,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",390.08,2781
+52431,2022-11-25 17:17:42,RETURN,Aenean sit amet justo.,40.03,2760
+458681,2022-10-06 09:41:51,RETURN,Sed ante.,343.46,3255
+368782,2022-07-15 03:59:38,ISSUE,In congue.,75.46,3255
+547691,2022-07-25 01:29:35,RESERVE,Suspendisse ornare consequat lectus.,329.51,2760
+191472,2022-02-27 22:08:14,LOST,Curabitur in libero ut massa volutpat convallis.,38.21,2088
+885188,2022-03-25 18:26:44,RESERVE,Donec ut dolor.,102.32,3255
+842567,2022-07-13 13:16:55,LOST,Sed vel enim sit amet nunc viverra dapibus.,15.45,3340
+682181,2022-12-22 16:35:01,RETURN,Morbi a ipsum.,373.93,1013
+273918,2023-01-17 00:08:46,RENEW,Morbi ut odio.,436.64,2781
+738258,2022-04-29 23:03:57,RETURN,In congue.,481.67,1013
+523925,2022-11-23 05:42:22,LATE RETURN,Aenean auctor gravida sem.,459.69,1022
+621812,2022-11-05 07:56:53,ISSUE,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",255.71,1022
+987042,2022-04-10 13:58:54,RETURN,Aenean sit amet justo.,352.79,1022
+827331,2022-08-16 22:16:58,ISSUE,Maecenas pulvinar lobortis est.,306.49,2088
+58900,2022-08-24 18:40:16,ISSUE,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",275.95,3255
+699358,2022-10-16 06:20:45,LOST,Duis at velit eu est congue elementum.,118.58,3255
+512189,2022-11-19 07:24:25,RESERVE,Maecenas ut massa quis augue luctus tincidunt.,204.99,1022
+355543,2022-08-02 03:41:32,DAMAGED RETURN,Mauris lacinia sapien quis libero.,14.37,2088
+955992,2022-08-19 15:33:05,LOST,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",447.37,3434
+3686,2022-06-25 00:43:19,RESERVE,Aenean auctor gravida sem.,168.66,4550
+801338,2022-06-03 06:08:12,LATE RETURN,Nulla nisl.,275.66,1199
+516268,2022-12-04 07:25:06,RESERVE,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",248.03,1199
+399818,2022-10-15 22:51:42,LOST,Nam tristique tortor eu pede.,475.32,1022
+163635,2022-06-28 23:49:29,LOST,Phasellus id sapien in sapien iaculis congue.,103.63,1199
+683487,2022-12-10 22:40:41,RESERVE,Curabitur convallis.,262.39,2781
+861163,2022-12-01 18:14:52,RETURN,Duis mattis egestas metus.,196.12,3255
+631413,2022-11-01 09:56:37,LOST,Mauris sit amet eros.,445.68,1013
+338700,2022-07-20 18:13:13,DAMAGED RETURN,Praesent lectus.,478.6,3255
+243081,2023-01-02 15:28:18,LOST,Integer a nibh.,278.9,3434
+867100,2023-02-13 17:10:54,LOST,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",4.43,1199
+75142,2022-09-20 14:30:16,LATE RETURN,Mauris lacinia sapien quis libero.,278.26,2088
+891625,2022-12-05 06:37:43,ISSUE,In quis justo.,115.18,2760
+399321,2022-05-03 08:26:07,ISSUE,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",159.36,1013
+549119,2022-03-27 02:55:27,DAMAGED RETURN,Morbi quis tortor id nulla ultrices aliquet.,462.16,2088
+780169,2023-02-13 15:48:44,DAMAGED RETURN,Proin interdum mauris non ligula pellentesque ultrices.,71.09,2760
+339741,2023-01-06 09:14:30,ISSUE,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",327.1,3434
+33858,2022-10-03 14:31:42,LATE RETURN,Praesent blandit.,377.05,3255
+284774,2023-01-03 14:05:18,ISSUE,Etiam justo.,195.27,3255
+683095,2023-01-31 08:10:05,LATE RETURN,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",359.05,3434
+551369,2022-06-28 13:58:42,LATE RETURN,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",93.84,1022
+866656,2022-03-18 22:02:14,ISSUE,Vivamus vestibulum sagittis sapien.,24.17,3434
+284090,2022-03-05 02:40:33,LATE RETURN,Nam nulla.,206.34,3340
+435523,2022-07-13 06:07:26,RENEW,Vivamus vestibulum sagittis sapien.,154.38,4550
+491988,2022-03-05 06:54:52,LOST,Integer non velit.,440.86,2088
+743869,2022-09-19 10:38:54,RESERVE,Pellentesque viverra pede ac diam.,377.55,4550
+913873,2022-12-22 17:50:46,RENEW,Donec quis orci eget orci vehicula condimentum.,294.98,3340
+43807,2022-08-15 00:21:22,LATE RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",59.35,2781
+409905,2022-08-11 16:33:50,RENEW,Sed sagittis.,274.91,3255
+521506,2022-10-15 08:13:02,LATE RETURN,Praesent blandit lacinia erat.,438.65,2760
+72428,2022-08-14 20:49:15,RESERVE,Etiam pretium iaculis justo.,111.35,1199
+533862,2022-11-21 15:16:07,ISSUE,Vivamus tortor.,150.73,3255
+240290,2023-02-02 16:00:48,LATE RETURN,Aliquam non mauris.,370.93,3434
+998641,2022-09-03 12:50:49,DAMAGED RETURN,Aenean auctor gravida sem.,412.78,2088
+570150,2023-01-30 14:11:05,RESERVE,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",256.87,1199
+639236,2022-02-22 15:51:21,ISSUE,Ut at dolor quis odio consequat varius.,88.91,1199
+53928,2022-09-20 07:53:59,DAMAGED RETURN,Phasellus sit amet erat.,100.13,4550
+457389,2022-12-22 04:57:16,RENEW,Donec semper sapien a libero.,45.84,3255
+493942,2022-04-22 04:41:17,LOST,Morbi non lectus.,408.06,2088
+781706,2022-03-20 22:30:03,DAMAGED RETURN,Praesent lectus.,33.94,2781
+584308,2023-01-02 09:45:18,RENEW,Cras non velit nec nisi vulputate nonummy.,74.18,3255
+935514,2023-01-15 15:57:17,RETURN,Suspendisse potenti.,141.04,2781
+603193,2023-02-03 20:49:27,ISSUE,In eleifend quam a odio.,326.09,4550
+721704,2023-01-27 19:10:04,RESERVE,Nulla ac enim.,91.31,3434
+154419,2022-06-28 02:10:35,LOST,Cras non velit nec nisi vulputate nonummy.,456.72,3255
+711755,2022-12-27 00:02:34,RESERVE,Nulla mollis molestie lorem.,301.2,1013
+248477,2022-05-28 20:17:41,ISSUE,In hac habitasse platea dictumst.,472.84,1022
+882307,2022-11-10 05:16:14,LATE RETURN,In hac habitasse platea dictumst.,210.67,1199
+118012,2022-03-11 12:09:13,RESERVE,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",256.6,1022
+374360,2022-10-26 12:51:32,LOST,Pellentesque at nulla.,345.58,3255
+101279,2022-04-24 06:46:49,RETURN,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",261.85,3340
+661926,2022-05-18 23:43:44,RESERVE,Nulla ac enim.,283.18,3340
+547161,2022-04-03 12:35:55,RETURN,In hac habitasse platea dictumst.,109.2,2760
+414708,2022-05-24 18:55:30,DAMAGED RETURN,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",398.64,4550
+652693,2023-01-12 16:55:13,RESERVE,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",160.05,1013
+956983,2022-07-13 06:50:51,RETURN,Vestibulum sed magna at nunc commodo placerat.,193.08,4550
+673122,2022-09-26 11:52:34,ISSUE,Vivamus in felis eu sapien cursus vestibulum.,121.63,1013
+955232,2022-03-03 20:56:09,DAMAGED RETURN,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",118.86,1013
+873707,2023-02-07 12:08:51,RESERVE,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",424.09,3434
+821326,2022-03-01 15:48:46,RENEW,Morbi vel lectus in quam fringilla rhoncus.,423,3340
+728423,2022-07-04 15:23:35,DAMAGED RETURN,Morbi quis tortor id nulla ultrices aliquet.,350.31,1013
+41755,2022-10-17 00:01:41,DAMAGED RETURN,Duis at velit eu est congue elementum.,169.77,2781
+494090,2022-12-11 03:35:51,ISSUE,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",471.12,1199
+799520,2022-07-15 14:12:23,DAMAGED RETURN,Integer ac neque.,109.75,1199
+401497,2022-07-02 21:44:03,ISSUE,Curabitur in libero ut massa volutpat convallis.,228.06,2088
+856867,2022-12-21 02:04:46,RENEW,Curabitur at ipsum ac tellus semper interdum.,320.07,3434
+780685,2022-12-18 19:14:37,RENEW,Mauris sit amet eros.,194.89,1013
+780620,2022-08-17 21:00:29,LOST,Nulla justo.,282.34,3434
+875148,2022-03-27 00:33:41,RENEW,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",443.37,1022
+538049,2022-03-03 23:44:46,LATE RETURN,Praesent blandit lacinia erat.,29.5,3255
+350927,2022-04-04 08:39:19,ISSUE,Proin risus.,67.65,2760
+846379,2022-07-24 07:06:04,LATE RETURN,Praesent blandit.,203.07,1013
+831703,2022-03-19 08:49:25,RESERVE,Morbi quis tortor id nulla ultrices aliquet.,305.42,3434
+74017,2022-03-29 22:07:50,RETURN,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",339.8,1022
+392683,2023-02-03 04:13:03,DAMAGED RETURN,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",71.51,2088
+263317,2022-08-23 15:25:45,LOST,Nulla nisl.,109.63,2781
+643487,2022-08-12 00:39:01,LATE RETURN,Nulla tempus.,460.51,4550
+107289,2022-08-18 03:47:27,LATE RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",361.92,1199
+761000,2022-11-15 17:31:26,LOST,Pellentesque eget nunc.,396.02,4550
+217525,2022-07-17 13:07:54,LOST,Morbi quis tortor id nulla ultrices aliquet.,81.82,3434
+268648,2022-12-24 07:33:52,DAMAGED RETURN,Suspendisse potenti.,291.45,1013
+849449,2022-05-02 13:31:08,RENEW,Maecenas pulvinar lobortis est.,181.83,2781
+368616,2022-09-19 20:01:37,RESERVE,Morbi quis tortor id nulla ultrices aliquet.,28.38,4550
+366789,2022-11-09 10:53:20,RENEW,Suspendisse potenti.,145.09,3255
+664195,2022-05-15 00:39:24,RETURN,Nulla mollis molestie lorem.,165.45,3255
+759227,2022-03-30 08:51:15,RENEW,Donec vitae nisi.,326.1,3434
+453752,2022-10-12 12:19:36,RESERVE,Sed sagittis.,258.72,2781
+319851,2022-05-02 07:04:32,RENEW,Sed accumsan felis.,476.15,3340
+292302,2022-09-19 17:51:57,LATE RETURN,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",208.08,2088
+257511,2023-01-12 15:14:17,RENEW,Quisque porta volutpat erat.,205.93,4550
+118849,2022-06-01 05:59:13,LOST,Fusce posuere felis sed lacus.,499.11,2781
+784724,2022-04-04 05:25:42,LOST,Duis at velit eu est congue elementum.,381.07,2760
+180358,2022-04-29 20:09:08,RENEW,Aliquam quis turpis eget elit sodales scelerisque.,387.3,1013
+731405,2022-05-08 13:20:29,DAMAGED RETURN,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",443.78,1013
+120188,2022-03-09 22:00:34,ISSUE,Mauris lacinia sapien quis libero.,408.78,2781
+694636,2022-03-21 20:08:57,DAMAGED RETURN,Nulla tellus.,174.08,4550
+107107,2022-04-18 12:19:43,RESERVE,Cras in purus eu magna vulputate luctus.,47.36,4550
+636634,2023-02-07 00:21:37,LOST,Aliquam non mauris.,48.25,1022
+833246,2022-08-26 01:45:07,LATE RETURN,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",78.48,3340
+22519,2022-08-22 02:59:30,LOST,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",386.52,1013
+908483,2022-04-30 01:47:44,RENEW,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",448.19,3340
+409320,2022-04-07 05:02:30,LATE RETURN,Pellentesque at nulla.,323.4,2088
+748151,2023-01-06 14:36:32,ISSUE,Aenean auctor gravida sem.,365.24,3434
+767732,2022-04-22 04:50:37,LATE RETURN,Mauris ullamcorper purus sit amet nulla.,277.81,1199
+859021,2023-02-14 03:43:48,RENEW,Vivamus tortor.,496.1,2781
+740707,2022-08-15 03:04:27,RETURN,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",394.47,2088
+913959,2023-01-03 08:25:24,RETURN,Quisque porta volutpat erat.,121.33,1013
+992569,2022-08-24 20:30:22,LOST,Nunc rhoncus dui vel sem.,215.81,2088
+322916,2023-02-19 01:24:04,DAMAGED RETURN,Pellentesque eget nunc.,313.62,2781
+874964,2023-01-14 05:10:11,LATE RETURN,Integer a nibh.,268.14,1022
+611961,2022-09-09 07:49:16,RETURN,Proin interdum mauris non ligula pellentesque ultrices.,485.83,2760
+928089,2022-05-06 16:38:32,ISSUE,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",446.31,3340
+583235,2022-05-28 19:16:00,LATE RETURN,Nullam sit amet turpis elementum ligula vehicula consequat.,190.17,3340
+256476,2022-06-17 19:15:58,RESERVE,Donec ut mauris eget massa tempor convallis.,47.09,2760
+346209,2022-09-05 11:58:40,DAMAGED RETURN,Suspendisse potenti.,206.93,1022
+539470,2022-08-21 15:54:26,RETURN,Curabitur in libero ut massa volutpat convallis.,18.47,1013
+604185,2023-01-28 19:06:24,RENEW,Nam dui.,28.67,1199
+10688,2022-05-16 00:34:37,ISSUE,Curabitur convallis.,226.1,1013
+281857,2022-11-30 01:59:05,RETURN,Fusce consequat.,83.06,4550
+502442,2022-05-31 14:19:37,DAMAGED RETURN,Morbi a ipsum.,235.55,4550
+621565,2023-02-05 08:40:43,RESERVE,Aenean lectus.,363.12,3434
+83977,2022-10-14 07:30:11,RENEW,Suspendisse potenti.,15.19,3255
+136771,2023-01-04 09:33:50,ISSUE,Etiam vel augue.,92.11,2088
+921675,2022-02-24 16:36:07,ISSUE,Nulla tempus.,481.91,2781
+519796,2022-08-24 06:09:51,LATE RETURN,Donec dapibus.,171.15,2088
+107595,2022-03-31 12:59:48,DAMAGED RETURN,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",464.08,3434
+450263,2022-04-05 05:43:29,ISSUE,Aliquam quis turpis eget elit sodales scelerisque.,237.73,3255
+678034,2022-03-06 10:54:28,DAMAGED RETURN,Suspendisse potenti.,427.39,4550
+437428,2022-06-08 04:58:11,LOST,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",87.61,4550
+131608,2022-08-25 23:25:11,LATE RETURN,Aenean sit amet justo.,58.97,3255
+467291,2022-11-21 13:22:55,RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",23.91,3340
+726464,2022-03-22 23:08:29,RETURN,Praesent blandit.,150.41,1199
+843777,2022-05-11 15:17:27,ISSUE,Cras in purus eu magna vulputate luctus.,273.51,1013
+559998,2023-01-17 00:24:31,DAMAGED RETURN,Suspendisse potenti.,355.87,3340
+729939,2022-05-11 17:57:19,ISSUE,Nulla justo.,187.19,2088
+393402,2022-09-21 16:58:09,DAMAGED RETURN,Proin interdum mauris non ligula pellentesque ultrices.,143.38,3434
+203015,2022-05-08 10:08:26,RESERVE,Vestibulum rutrum rutrum neque.,34.83,2781
+55310,2022-12-20 20:31:22,DAMAGED RETURN,Donec vitae nisi.,38.27,4550
+339939,2022-12-15 03:53:04,DAMAGED RETURN,Proin interdum mauris non ligula pellentesque ultrices.,298.63,3255
+804715,2022-12-25 22:21:50,DAMAGED RETURN,Duis at velit eu est congue elementum.,52,2088
+198664,2022-05-10 18:52:38,RENEW,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",445.08,3434
+704414,2022-08-20 02:03:41,DAMAGED RETURN,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",12.69,2088
+399719,2022-10-21 07:15:56,LATE RETURN,Nulla suscipit ligula in lacus.,321.61,3434
+351374,2022-05-30 22:22:24,RENEW,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",385.36,3255
+500323,2023-01-17 14:26:38,RENEW,In hac habitasse platea dictumst.,299.88,3255
+821882,2022-12-21 12:43:32,LOST,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",52.76,4550
+474007,2022-07-04 19:12:36,RENEW,Mauris sit amet eros.,346.62,1013
+581725,2022-10-16 22:51:01,RETURN,Ut at dolor quis odio consequat varius.,271.21,3434
+548231,2022-10-25 00:17:29,RESERVE,Praesent id massa id nisl venenatis lacinia.,181.12,4550
+721282,2022-12-17 13:34:30,RESERVE,Mauris sit amet eros.,154.71,1022
+216616,2022-12-09 00:45:19,LATE RETURN,Pellentesque viverra pede ac diam.,158.48,4550
+770379,2022-07-11 17:12:34,RESERVE,In eleifend quam a odio.,102.72,3255
+590573,2022-09-25 19:43:50,LOST,Sed accumsan felis.,383.94,1199
+729571,2023-02-04 08:38:09,LOST,Nullam molestie nibh in lectus.,50.65,1199
+513528,2022-09-29 23:17:01,LOST,In eleifend quam a odio.,479.49,3434
+251434,2022-09-11 11:46:27,LOST,Donec ut mauris eget massa tempor convallis.,366.83,4550
+232300,2022-09-01 06:41:32,LATE RETURN,Praesent blandit lacinia erat.,224.89,3434
+270764,2022-10-19 19:11:27,RESERVE,Morbi quis tortor id nulla ultrices aliquet.,27.63,3255
+590811,2022-09-26 02:23:20,RETURN,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",309.13,2088
+288328,2022-08-17 02:36:17,RETURN,Donec quis orci eget orci vehicula condimentum.,50.45,2781
+355803,2022-08-21 03:39:12,LATE RETURN,Etiam vel augue.,142.38,3340
+963662,2022-07-16 11:27:23,RESERVE,Donec ut mauris eget massa tempor convallis.,178.86,3434
+831295,2022-05-04 05:59:50,RENEW,Aenean lectus.,80.95,2781
+32552,2022-12-02 07:44:50,LATE RETURN,Pellentesque eget nunc.,450.07,3434
+993135,2023-02-12 20:26:36,DAMAGED RETURN,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",207.33,2760
+519762,2022-07-24 06:12:46,LATE RETURN,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",166.3,1199
+250818,2022-04-05 07:05:14,DAMAGED RETURN,Nulla nisl.,496.96,2088
+339722,2022-03-08 05:34:33,RESERVE,Donec posuere metus vitae ipsum.,219.1,1013
+526207,2022-04-14 07:14:02,RESERVE,In sagittis dui vel nisl.,163.3,3255
+93543,2023-01-14 00:17:57,DAMAGED RETURN,Etiam vel augue.,421.59,3255
+538843,2022-09-13 23:20:04,RESERVE,Praesent id massa id nisl venenatis lacinia.,285.41,3434
+996429,2022-05-26 21:25:30,DAMAGED RETURN,Duis ac nibh.,353.42,3434
+641453,2022-06-02 01:16:44,RETURN,Nullam sit amet turpis elementum ligula vehicula consequat.,103.32,3434
+77121,2022-08-26 10:02:04,RESERVE,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",466.37,3434
+673669,2022-04-24 06:37:14,RETURN,Sed ante.,491.47,2088
+416613,2022-04-12 13:37:17,LATE RETURN,Donec vitae nisi.,108.4,4550
+912420,2022-05-01 07:47:05,RENEW,Vivamus vestibulum sagittis sapien.,98.7,2760
+876187,2022-11-04 15:38:02,ISSUE,Aenean fermentum.,145.65,3434
+797316,2022-07-21 19:45:45,RENEW,Praesent blandit lacinia erat.,256.86,2088
+772681,2022-12-21 11:04:01,RESERVE,Vivamus vestibulum sagittis sapien.,365.05,2088
+832983,2022-03-30 12:19:48,LOST,Pellentesque at nulla.,152.95,3340
+739979,2022-11-19 04:06:51,RETURN,Vivamus in felis eu sapien cursus vestibulum.,200.37,4550
+863465,2022-06-08 02:06:20,RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",264.82,3434
+242826,2022-04-18 05:52:03,RENEW,Donec posuere metus vitae ipsum.,231.95,4550
+919175,2023-01-02 06:12:26,LATE RETURN,Sed accumsan felis.,473.25,3255
+850566,2022-03-29 04:00:50,RETURN,Aenean lectus.,124,1199
+215467,2023-01-14 00:11:33,LOST,Etiam vel augue.,244.97,1022
+504656,2022-11-10 17:10:36,LOST,Donec quis orci eget orci vehicula condimentum.,322.36,1022
+911905,2022-09-25 06:28:21,RENEW,Donec posuere metus vitae ipsum.,152.23,4550
+562459,2022-10-04 05:26:05,RESERVE,Quisque ut erat.,219.91,2781
+385806,2022-08-04 18:03:04,ISSUE,In eleifend quam a odio.,381.92,1013
+701471,2022-07-28 20:49:32,LOST,Etiam vel augue.,368.63,1199
+452351,2022-03-28 06:42:39,RETURN,Donec vitae nisi.,288.29,2760
+54145,2022-09-28 14:27:19,RESERVE,Nam dui.,346.32,3255
+898289,2022-06-13 21:19:46,RESERVE,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",451.97,3434
+191227,2022-07-02 19:53:40,LOST,Duis at velit eu est congue elementum.,197.85,2760
+655120,2022-04-06 13:39:29,ISSUE,In congue.,426.84,3434
+920867,2022-09-10 02:20:51,RETURN,Morbi vel lectus in quam fringilla rhoncus.,369.83,3255
+479918,2022-10-22 10:39:30,RETURN,Ut tellus.,58.87,2781
+423031,2022-05-02 12:26:08,DAMAGED RETURN,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",469.51,3340
+183252,2022-04-01 06:39:04,RESERVE,Morbi quis tortor id nulla ultrices aliquet.,36.57,3434
+283802,2022-10-25 23:31:03,RETURN,Nulla justo.,280.72,1199
+814123,2023-02-08 09:11:58,DAMAGED RETURN,Morbi non lectus.,107.63,3340
+763283,2022-03-08 15:02:31,LATE RETURN,Cras in purus eu magna vulputate luctus.,416.45,2088
+933161,2023-01-14 05:49:27,LATE RETURN,Maecenas pulvinar lobortis est.,169.28,3340
+585965,2022-04-17 09:06:37,RETURN,Donec posuere metus vitae ipsum.,314.95,1022
+953632,2022-12-05 00:24:49,RETURN,Nunc rhoncus dui vel sem.,13.04,1199
+187341,2022-12-19 14:37:31,LOST,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",318.39,1013
+200058,2022-05-11 19:21:34,DAMAGED RETURN,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",191.28,2088
+583275,2022-08-24 21:51:56,ISSUE,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",242.9,1013
+21433,2022-07-30 04:27:16,LOST,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",441.61,1022
+162138,2022-10-17 09:29:49,RENEW,Phasellus in felis.,252.61,2781
+303574,2023-01-12 06:32:40,RENEW,Maecenas tincidunt lacus at velit.,356.11,3255
+341516,2022-12-12 00:56:05,RESERVE,Integer tincidunt ante vel ipsum.,108.35,2781
+150065,2022-04-26 04:37:30,LATE RETURN,Nam dui.,169.29,2760
+915083,2022-05-30 12:50:12,LOST,Nam nulla.,275.61,1199
+801524,2022-04-25 23:49:15,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,222.04,2781
+450339,2022-11-02 08:48:02,DAMAGED RETURN,In quis justo.,223.94,2781
+850707,2022-05-10 02:47:39,RESERVE,Phasellus sit amet erat.,210.41,2781
+820921,2022-12-08 14:25:30,ISSUE,Nam dui.,466.54,4550
+656408,2022-08-13 21:51:48,RENEW,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",477.35,2781
+98871,2023-01-16 00:06:12,ISSUE,Nam tristique tortor eu pede.,427.82,4550
+662674,2022-02-27 21:44:50,DAMAGED RETURN,Nulla ac enim.,51.42,3255
+602098,2023-02-01 16:29:50,ISSUE,In hac habitasse platea dictumst.,466.31,1013
+648771,2022-03-02 04:43:24,RESERVE,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",148.28,3255
+132174,2022-12-02 07:32:43,RESERVE,In hac habitasse platea dictumst.,213.29,3340
+45228,2022-07-07 02:14:16,ISSUE,Suspendisse potenti.,172.73,3434
+531927,2022-03-29 18:57:29,ISSUE,Maecenas ut massa quis augue luctus tincidunt.,498.04,1199
+85779,2022-08-17 19:51:20,RETURN,Vivamus vestibulum sagittis sapien.,111.99,2781
+489622,2022-03-14 05:01:50,ISSUE,Maecenas tincidunt lacus at velit.,73.03,1199
+817945,2022-05-19 21:01:30,LOST,Duis mattis egestas metus.,434.16,2781
+215884,2022-03-19 07:36:19,ISSUE,Nulla mollis molestie lorem.,285.33,3255
+701507,2022-09-08 03:00:47,ISSUE,Cras pellentesque volutpat dui.,324.66,3340
+395389,2023-01-08 15:27:02,RETURN,Duis bibendum.,178.49,3255
+30546,2022-04-28 02:07:05,ISSUE,Aliquam quis turpis eget elit sodales scelerisque.,432.65,3434
+784709,2022-05-05 19:40:47,DAMAGED RETURN,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",292.36,1199
+936969,2022-04-01 12:17:46,LOST,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,134.65,4550
+833133,2022-11-13 04:40:20,LOST,Praesent blandit.,19.33,1022
+774690,2022-09-11 21:27:02,LATE RETURN,In congue.,149.35,3434
+860803,2022-11-30 15:42:06,RETURN,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",270.19,2760
+443070,2022-02-24 20:32:35,ISSUE,Nam dui.,192.96,3340
+752075,2022-10-21 17:53:04,ISSUE,In sagittis dui vel nisl.,25.41,2781
+161601,2023-01-14 08:44:54,LOST,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",343.23,3255
+959036,2023-01-02 13:36:56,LOST,Nulla justo.,429.41,1199
+266133,2022-03-31 04:19:29,LOST,Sed accumsan felis.,8.8,1022
+734481,2022-10-09 21:12:12,ISSUE,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",337.75,2781
+578484,2022-02-21 03:03:23,LATE RETURN,Duis bibendum.,347.73,3255
+765653,2023-01-25 22:21:18,RENEW,Suspendisse accumsan tortor quis turpis.,164.62,3434
+713834,2022-07-01 19:29:31,LOST,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",66.64,3255
+530365,2022-06-23 11:15:42,ISSUE,Suspendisse potenti.,446.1,3255
+575227,2022-04-30 15:23:27,RETURN,Nulla tellus.,19.6,1199
+775166,2022-12-30 07:14:32,DAMAGED RETURN,Nam nulla.,86.2,1022
+919793,2022-05-28 22:50:33,RESERVE,Nulla tempus.,191.79,4550
+550216,2022-12-29 11:35:58,LOST,Aliquam quis turpis eget elit sodales scelerisque.,302.68,1013
+896239,2022-05-26 18:00:53,ISSUE,Curabitur at ipsum ac tellus semper interdum.,351.49,3340
+293829,2022-12-05 13:53:38,RESERVE,Nunc rhoncus dui vel sem.,482.27,1199
+628066,2022-10-22 05:54:20,DAMAGED RETURN,Maecenas pulvinar lobortis est.,246.81,1013
+627367,2022-03-03 04:48:54,LATE RETURN,Maecenas pulvinar lobortis est.,323.93,1022
+754104,2022-04-11 22:08:11,RESERVE,Nulla suscipit ligula in lacus.,265.68,3255
+852274,2022-06-13 13:05:46,RESERVE,Aliquam sit amet diam in magna bibendum imperdiet.,263.43,2760
+265096,2022-10-11 06:42:41,LOST,Quisque id justo sit amet sapien dignissim vestibulum.,460.13,2781
+725680,2022-08-31 05:53:45,RESERVE,Vivamus vestibulum sagittis sapien.,464.29,1013
+544145,2022-05-05 09:10:04,DAMAGED RETURN,Vestibulum rutrum rutrum neque.,238.5,3434
+138718,2022-03-18 10:29:25,RESERVE,Morbi porttitor lorem id ligula.,186.23,2781
+503595,2022-05-07 19:35:40,DAMAGED RETURN,Curabitur gravida nisi at nibh.,462.03,1022
+225610,2022-08-26 11:51:44,RENEW,Integer ac neque.,204.93,4550
+255688,2023-01-27 19:21:31,RETURN,Maecenas ut massa quis augue luctus tincidunt.,414.14,1199
+12982,2022-09-16 03:01:50,DAMAGED RETURN,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",101.39,2760
+137265,2022-09-29 08:09:45,RETURN,Duis at velit eu est congue elementum.,79.27,2760
+417516,2022-03-03 19:15:38,LATE RETURN,In hac habitasse platea dictumst.,57.61,1199
+28591,2022-03-17 01:14:45,RENEW,Vivamus tortor.,359.15,2088
+592825,2022-03-06 23:14:55,RESERVE,Donec ut mauris eget massa tempor convallis.,396.17,3340
+387576,2022-10-01 10:03:39,LOST,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",131.91,3340
+461481,2022-11-02 17:11:51,RENEW,Quisque porta volutpat erat.,352.7,2760
+669836,2022-11-03 17:06:32,LATE RETURN,Nam tristique tortor eu pede.,373.36,2781
+937840,2022-12-03 16:15:14,LATE RETURN,Fusce posuere felis sed lacus.,142.84,1199
+444536,2022-10-17 15:05:04,RESERVE,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",433.19,1013
+225656,2023-01-30 08:44:26,RETURN,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",318.68,1199
+816094,2022-04-25 03:40:31,RENEW,Nam dui.,379.93,3434
+913919,2022-03-21 01:34:32,LOST,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",372.23,3340
+819925,2022-12-05 09:42:42,RENEW,Nullam varius.,190.19,2760
+583570,2022-10-27 11:32:48,RETURN,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",340.85,3340
+110265,2022-12-01 00:34:02,RESERVE,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,34.16,3255
+883759,2022-09-19 01:11:01,ISSUE,Donec quis orci eget orci vehicula condimentum.,53.24,1022
+981155,2022-10-21 12:21:07,ISSUE,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",79.71,4550
+85806,2023-02-11 19:49:07,RESERVE,Proin risus.,445.44,3340
+468551,2022-12-11 17:35:52,ISSUE,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",411.79,3340
+676594,2022-05-24 15:25:11,RENEW,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",354.51,3340
+313835,2022-03-19 07:03:42,RESERVE,Duis mattis egestas metus.,15.89,3255
+485271,2022-09-28 02:17:32,DAMAGED RETURN,Vivamus in felis eu sapien cursus vestibulum.,14.68,3340
+153245,2022-07-26 11:10:06,RENEW,Sed accumsan felis.,187.56,2088
+554538,2022-12-26 09:18:31,RENEW,Nunc rhoncus dui vel sem.,200.26,1022
+332043,2023-02-03 21:45:24,RESERVE,In eleifend quam a odio.,386.12,4550
+876868,2022-08-01 17:40:50,RESERVE,Morbi quis tortor id nulla ultrices aliquet.,268.98,2760
+89987,2022-10-11 12:52:31,RENEW,Aenean fermentum.,463.84,2088
+184385,2022-07-24 23:45:56,RETURN,Phasellus id sapien in sapien iaculis congue.,314.02,1013
+680590,2022-09-24 21:14:05,RETURN,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",335.99,1013
+777543,2022-03-18 18:40:10,LATE RETURN,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",75.23,2781
+915451,2022-10-18 14:02:51,LATE RETURN,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",41.9,3340
+437025,2022-10-28 20:40:42,RENEW,Praesent blandit.,8.04,2760
+97203,2022-03-29 13:49:10,DAMAGED RETURN,Suspendisse potenti.,108.07,4550
+188426,2022-11-25 11:05:02,LATE RETURN,Vestibulum ac est lacinia nisi venenatis tristique.,351.81,3434
+582933,2022-12-02 16:01:06,ISSUE,Donec quis orci eget orci vehicula condimentum.,409.99,2781
+877454,2022-04-08 10:24:15,RETURN,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",50.44,2760
+688824,2023-01-29 14:44:17,LATE RETURN,Ut tellus.,26.77,2781
+579614,2022-05-19 11:23:33,RESERVE,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",5.93,3340
+314693,2022-11-29 09:08:27,DAMAGED RETURN,Vestibulum ac est lacinia nisi venenatis tristique.,391.63,2781
+369478,2022-04-24 00:19:46,RESERVE,Vivamus vestibulum sagittis sapien.,209.59,2781
+328389,2022-03-20 08:25:06,LOST,Morbi vel lectus in quam fringilla rhoncus.,316.49,1013
+805282,2022-09-25 00:51:15,DAMAGED RETURN,Vivamus in felis eu sapien cursus vestibulum.,490.71,3340
+891905,2022-06-25 06:46:56,ISSUE,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",334.93,2760
+840640,2022-10-11 23:11:54,LOST,In hac habitasse platea dictumst.,466.03,1013
+240335,2022-09-23 19:10:39,RENEW,Vestibulum sed magna at nunc commodo placerat.,447.29,4550
+214969,2022-06-02 00:55:09,LOST,Praesent blandit.,368.71,2088
+200122,2022-03-18 12:42:00,RENEW,Sed ante.,289.31,1199
+766785,2022-03-26 10:38:23,RESERVE,Quisque ut erat.,154.99,3340
+889431,2022-04-01 16:47:18,RETURN,Maecenas ut massa quis augue luctus tincidunt.,233.77,3255
+475504,2023-01-23 14:07:01,DAMAGED RETURN,Nullam molestie nibh in lectus.,404.9,4550
+855645,2022-10-30 13:58:28,RESERVE,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",56.83,2760

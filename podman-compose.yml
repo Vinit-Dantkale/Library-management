@@ -1,0 +1,15 @@
+version: '3.1'
+services:
+  db:
+    image: postgres:14-alpine
+    build: .
+    container_name: library_management_ctr
+    volumes:
+      - ./:/docker-entrypoint-initdb.d
+    ports:
+      - 5432:5432
+    restart: always
+    environment:
+      POSTGRES_DB: library_management
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: pass
